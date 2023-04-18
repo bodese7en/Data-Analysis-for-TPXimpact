@@ -1,0 +1,1001 @@
+employee_id,date,first_name,last_name,gender,dob,headcount_flag,leavers_flag,termination_date,joiners_flag,voluntary_leavers_flag,involuntary_leavers_flag,department,work_location_country,work_location_city,seniority_level,performance_rating,behaviour_rating,ethnicity
+80-8559512,9/19/2019,Wilona,Highnam,Female,8/7/1971,1,0,,1,0,0,Accounting,Russia,Dno,2,Meets Expectations,Unacceptable,Indian
+02-8877831,6/30/2019,Corissa,Prestland,Female,4/25/1972,1,0,,1,0,0,Services,Albania,Frakulla e Madhe,2,Exceeds Expectations,Meets Expectations,Pakistani
+35-5477116,7/28/2019,Austine,Rathborne,Female,12/15/1965,1,0,,0,0,0,Research and Development,Russia,Shali,6,Unacceptable,Needs Improvement,Bangladeshi
+44-2557065,3/7/2020,Caroline,Jess,Female,6/4/1970,1,0,,1,0,0,Legal,Portugal,Lagoa,9,Unacceptable,Unacceptable,Chinese
+92-1910801,12/31/2021,Karia,Farnell,Male,12/8/1959,1,1,9/12/2021,0,1,0,Engineering,China,Yanghou,10,Unacceptable,Outstanding,African
+48-5166367,3/28/2022,Harley,Slocumb,Female,5/27/1976,1,0,,0,0,0,Business Development,Libya,Sulūq,5,Exceeds Expectations,Outstanding,Caribbean
+89-7085284,1/25/2021,Jen,Langdridge,Male,8/7/1977,1,0,,1,0,0,Engineering,Indonesia,Delod Pangkung,8,Exceeds Expectations,Needs Improvement,White
+72-5764917,12/10/2021,Dominick,Gouldeby,Male,8/24/1964,1,0,,0,0,0,Accounting,Myanmar,Meiktila,10,Exceeds Expectations,Meets Expectations,Arab
+64-3873882,9/8/2022,Danette,Wynch,Female,11/4/1961,1,0,,0,0,0,Services,Russia,Petushki,8,Outstanding,Meets Expectations,Irish
+48-6827091,5/31/2020,Mallorie,Akess,Female,5/22/1972,1,0,,1,0,0,Services,Madagascar,Moramanga,8,Exceeds Expectations,Meets Expectations,African
+52-3592838,9/27/2019,Sammie,Capey,Male,1/9/1982,1,0,,0,0,0,Sales,Philippines,Ualog,7,Unacceptable,Needs Improvement,Arab
+34-8879509,6/26/2019,Sarge,Cuchey,Male,7/22/1950,1,0,,0,0,0,Business Development,Indonesia,Lancang,4,Meets Expectations,Exceeds Expectations,Indian
+89-4696896,9/8/2021,Dion,Bothams,Male,8/15/1956,1,1,3/6/2022,1,1,0,Business Development,Indonesia,Grujugan,7,Needs Improvement,Exceeds Expectations,Bangladeshi
+45-5246962,12/25/2020,Shandee,Henryson,Female,8/25/1959,1,0,,0,0,0,Product Management,Russia,Starobelokurikha,9,Meets Expectations,Unacceptable,African
+02-5074896,2/7/2022,Rriocard,Napper,Non-binary,3/27/1970,1,0,,1,0,0,Services,China,Jinhe,1,Exceeds Expectations,Meets Expectations,White
+08-8734875,5/24/2021,Homerus,Chandlar,Male,10/15/1966,1,0,,1,0,0,Training,Portugal,Arcena Pequena,10,Needs Improvement,Needs Improvement,White 
+62-2952344,7/1/2020,Gary,Hedman,Male,4/30/1955,1,1,10/31/2021,0,1,0,Research and Development,Portugal,Vale de Açores,5,Needs Improvement,Exceeds Expectations,White
+64-5667141,1/9/2020,Alena,Curness,Female,10/25/1958,1,0,,1,0,0,Legal,Indonesia,Cinyawang,5,Outstanding,Outstanding,Chinese
+68-7913119,4/1/2022,Jory,Bear,Female,5/28/1962,1,0,,0,0,0,Business Development,China,Lanling,10,Exceeds Expectations,Exceeds Expectations,Pakistani
+25-4912269,4/5/2019,Nikaniki,Annion,Female,6/27/1964,1,0,,0,0,0,Human Resources,Indonesia,Ngujung,10,Exceeds Expectations,Outstanding,White
+82-5908491,4/2/2022,Junina,Allbrook,Female,4/14/1977,1,0,,1,0,0,Training,Mexico,Cuauhtemoc,4,Unacceptable,Unacceptable,Indian
+92-4641793,6/29/2021,Stephi,Thomtson,Female,9/25/1988,1,0,,1,0,0,Research and Development,France,Melun,10,Needs Improvement,Outstanding,Pakistani
+76-5187620,11/19/2021,Charlean,Teaser,Female,4/10/1993,1,0,,0,0,0,Legal,China,Lang,4,Exceeds Expectations,Exceeds Expectations,Bangladeshi
+16-3460992,10/23/2021,Jeffie,Beacom,Male,7/17/1951,1,0,,0,0,0,Business Development,China,Ningxin,4,Needs Improvement,Exceeds Expectations,Chinese
+90-7179171,1/29/2022,Lind,Whetton,Female,6/5/1999,1,0,,1,0,0,Engineering,China,Shang Boingor,3,Exceeds Expectations,Meets Expectations,African
+09-7280322,7/13/2021,Lyle,Luberti,Male,10/31/1992,1,0,,1,0,0,Human Resources,Portugal,São Martinho do Campo,2,Outstanding,Exceeds Expectations,Caribbean
+84-9189291,8/22/2022,Augustine,McIlraith,Agender,5/23/1980,1,0,,0,0,0,Human Resources,Portugal,Cabriz,4,Unacceptable,Needs Improvement,White
+80-5025498,10/21/2019,Dougie,Helliwell,Male,9/24/1984,1,0,,1,0,0,Research and Development,China,Yanglinshi,10,Needs Improvement,Meets Expectations,Arab
+41-8468150,4/10/2020,Elora,Kirke,Female,8/10/1958,1,0,,1,0,0,Support,Bosnia and Herzegovina,Zborište,4,Needs Improvement,Exceeds Expectations,Irish
+65-0108571,4/30/2019,Bourke,Pinard,Male,2/15/1985,1,0,,0,0,0,Human Resources,Philippines,Loreto,8,Exceeds Expectations,Needs Improvement,African
+39-3441021,9/18/2020,Catha,Mote,Male,3/3/2003,1,0,,1,0,0,Engineering,Greece,Néa Péramos,3,Meets Expectations,Exceeds Expectations,Arab
+71-3036950,8/26/2022,Luella,Gillimgham,Female,3/7/1988,1,1,12/3/2021,1,1,0,Legal,China,Caihua,8,Exceeds Expectations,Meets Expectations,Indian
+06-8288003,5/18/2022,Clemente,Frossell,Male,12/23/1992,1,0,,0,0,0,Sales,China,Fazhan,4,Unacceptable,Outstanding,Bangladeshi
+24-6008111,5/25/2021,Nolana,Pieche,Female,3/4/1956,1,0,,0,0,0,Marketing,Russia,Shalakusha,6,Needs Improvement,Unacceptable,African
+49-8862832,7/22/2019,Jaclyn,Shepeard,Male,6/24/1996,1,0,,1,0,0,Engineering,Canada,Digby,10,Needs Improvement,Outstanding,White
+18-1388919,3/26/2020,Bobinette,Emanulsson,Female,11/9/1994,1,0,,1,0,0,Human Resources,China,Xiaoduchuan,6,Needs Improvement,Meets Expectations,White 
+68-8636036,9/3/2020,Wyn,Jewson,Agender,12/7/1957,1,0,,0,0,0,Business Development,Malaysia,Ipoh,4,Needs Improvement,Unacceptable,White
+94-3879764,10/17/2020,Rois,Nibley,Male,10/5/1962,1,0,,0,0,0,Engineering,South Korea,Muan,3,Exceeds Expectations,Needs Improvement,Chinese
+01-5435805,11/7/2019,Anabelle,Sprey,Female,9/15/1999,1,0,,0,0,0,Support,Greece,Neochórion,8,Meets Expectations,Outstanding,Pakistani
+84-2352762,12/6/2021,Giselle,Vispo,Female,11/5/1953,1,0,,1,0,0,Support,Brazil,Piritiba,2,Exceeds Expectations,Needs Improvement,White
+97-5354310,7/11/2021,Jay,Cayton,Male,1/27/1982,1,1,1/9/2019,0,0,1,Sales,China,Huogezhuang,10,Needs Improvement,Meets Expectations,Indian
+17-0596326,2/1/2022,Norris,Keward,Male,8/28/1963,1,0,,0,0,0,Accounting,Czech Republic,Pardubice,4,Unacceptable,Outstanding,Pakistani
+15-5460567,7/4/2021,Jephthah,Lorraway,Male,2/13/1962,1,0,,1,0,0,Research and Development,Indonesia,Oitui,8,Needs Improvement,Unacceptable,Bangladeshi
+14-2766067,11/18/2021,Kahlil,Gagin,Male,10/1/1951,1,0,,1,0,0,Product Management,Vietnam,Quận Bốn,10,Exceeds Expectations,Meets Expectations,Chinese
+73-3977835,3/16/2020,Kilian,Halgarth,Male,5/8/2003,1,0,,0,0,0,Research and Development,Kazakhstan,Sarykemer,5,Outstanding,Unacceptable,African
+75-1433885,6/1/2022,Liz,Skoof,Female,12/29/2002,1,1,3/4/2021,0,1,0,Human Resources,Philippines,Batobato,4,Needs Improvement,Unacceptable,Caribbean
+62-0844922,5/30/2022,Valerie,Stable,Female,6/22/1962,1,0,,1,0,0,Services,New Zealand,Patea,5,Meets Expectations,Meets Expectations,White
+79-3221507,2/9/2021,Conney,Cattell,Male,3/12/1974,1,0,,0,0,0,Services,Portugal,Vessada,9,Meets Expectations,Outstanding,Arab
+17-9143164,8/5/2019,Joaquin,Ivshin,Male,7/30/1952,1,0,,1,0,0,Product Management,Czech Republic,Dolní Bojanovice,10,Needs Improvement,Unacceptable,Irish
+47-2922167,3/18/2021,Etan,Wrinch,Male,8/9/1974,1,0,,1,0,0,Services,South Africa,Mankoeng,1,Outstanding,Meets Expectations,African
+84-6637763,9/25/2022,Danielle,Blues,Female,10/22/1982,1,1,2/6/2019,1,0,1,Accounting,United States,Boston,3,Exceeds Expectations,Outstanding,Arab
+43-3289162,7/6/2019,Barry,Bradwell,Female,10/13/1975,1,0,,1,0,0,Training,Sri Lanka,Hendala,2,Needs Improvement,Exceeds Expectations,Indian
+52-5201011,11/13/2021,Karol,Mabone,Female,8/23/1977,1,0,,1,0,0,Human Resources,Paraguay,Altos,7,Needs Improvement,Meets Expectations,Bangladeshi
+41-0341626,8/10/2019,Darcie,Sex,Female,10/20/1976,1,0,,0,0,0,Human Resources,Philippines,Bakung,1,Meets Expectations,Exceeds Expectations,African
+56-4549045,4/15/2019,Jobyna,Bundy,Female,11/8/1957,1,0,,0,0,0,Accounting,Bahrain,Sitrah,3,Outstanding,Needs Improvement,White
+02-1022335,3/30/2021,Georgi,Cordell,Male,9/14/1999,1,0,,0,0,0,Accounting,Ukraine,Ovidiopol’,9,Exceeds Expectations,Meets Expectations,White 
+84-4363932,10/21/2021,Gib,Brabban,Male,7/11/1988,1,0,,0,0,0,Marketing,Sweden,Spånga,10,Meets Expectations,Meets Expectations,White
+32-2439918,7/13/2022,Michale,D'Arrigo,Male,4/10/1965,1,0,,0,0,0,Human Resources,Sri Lanka,Valvedditturai,10,Meets Expectations,Outstanding,Chinese
+65-1821198,8/24/2022,Vanda,Minard,Non-binary,9/6/1967,1,0,,1,0,0,Support,Indonesia,Lengkongjaya,10,Exceeds Expectations,Outstanding,Pakistani
+74-9315543,7/2/2019,Glory,De Andreis,Female,5/30/1983,1,0,,0,0,0,Accounting,Russia,Krasnokumskoye,4,Meets Expectations,Outstanding,White
+33-3921317,11/20/2019,Celina,Cuddon,Male,8/20/1969,1,0,,1,0,0,Engineering,Ethiopia,Gorē,2,Outstanding,Exceeds Expectations,Indian
+19-7337248,4/25/2019,Robby,Dulin,Male,4/15/1986,1,0,,1,0,0,Engineering,Indonesia,Senggreng,9,Unacceptable,Exceeds Expectations,Pakistani
+56-5270086,9/15/2022,Amara,Tucknott,Male,1/26/1983,1,0,,0,0,0,Accounting,Indonesia,Pangawaren,4,Meets Expectations,Needs Improvement,Bangladeshi
+17-2433870,9/5/2021,Millicent,Brudenell,Female,11/1/1968,1,0,,1,0,0,Training,Uganda,Katakwi,8,Unacceptable,Outstanding,Chinese
+47-3054632,3/12/2021,Townie,Wainwright,Male,7/18/1974,1,0,,1,0,0,Business Development,Czech Republic,Příbor,7,Needs Improvement,Meets Expectations,African
+10-0531955,5/30/2019,Harlene,Maryman,Female,5/20/1977,1,0,,1,0,0,Legal,Brazil,Montenegro,9,Meets Expectations,Outstanding,Caribbean
+81-7819047,9/2/2022,Benni,Zeale,Female,5/21/1963,1,0,,1,0,0,Human Resources,Philippines,Sigay,3,Needs Improvement,Exceeds Expectations,White
+13-5503851,6/29/2019,Trixy,Elder,Female,3/28/1996,1,0,,0,0,0,Engineering,Croatia,Kuče,2,Unacceptable,Needs Improvement,Arab
+68-0295842,7/2/2019,Chanda,Linham,Female,3/24/1993,1,1,2/4/2021,1,0,1,Services,China,Guangshun,6,Unacceptable,Meets Expectations,Irish
+28-1308849,3/11/2019,Blaine,Josipovitz,Polygender,5/5/1981,1,0,,1,0,0,Sales,Ireland,Aughrim,8,Exceeds Expectations,Outstanding,African
+33-0404931,6/19/2022,Glad,Sebyer,Female,7/28/1971,1,0,,0,0,0,Sales,Ukraine,Rodatychi,7,Unacceptable,Outstanding,Arab
+45-1310828,5/14/2022,Cathlene,Station,Genderqueer,8/16/1957,1,0,,0,0,0,Training,Armenia,Abovyan,1,Unacceptable,Meets Expectations,Indian
+16-5304471,6/19/2022,Ellery,Callum,Male,2/17/1984,1,0,,1,0,0,Research and Development,Tanzania,Mabamba,8,Needs Improvement,Needs Improvement,Bangladeshi
+21-7615686,5/28/2020,Eddie,Trayhorn,Male,6/22/1991,1,0,,1,0,0,Engineering,Philippines,Banaybanay,9,Outstanding,Unacceptable,African
+60-6004606,8/29/2021,Barnabas,Southouse,Male,6/5/1976,1,0,,1,0,0,Product Management,Indonesia,Kebonagung,7,Meets Expectations,Needs Improvement,White
+13-0500504,2/27/2021,Kerr,Laflin,Male,3/14/1955,1,0,,0,0,0,Support,Russia,Yashalta,8,Needs Improvement,Outstanding,White 
+13-5052045,6/20/2020,Kathie,Guiot,Female,9/16/2000,1,0,,0,0,0,Product Management,Paraguay,Atyrá,8,Outstanding,Meets Expectations,White
+12-7081829,1/20/2019,Lamar,Roth,Male,2/11/1955,1,0,,0,0,0,Engineering,China,Xiashitai,3,Outstanding,Needs Improvement,Chinese
+97-3458461,3/4/2022,Obidiah,Flemyng,Male,8/17/1971,1,1,4/8/2022,0,0,1,Training,Portugal,Montijo,6,Unacceptable,Needs Improvement,Pakistani
+26-3094634,1/28/2020,Osmond,Meineck,Male,9/30/1967,1,0,,1,0,0,Accounting,Philippines,Balogo,8,Unacceptable,Exceeds Expectations,White
+55-6116754,9/22/2021,Jerrold,Yitzhak,Genderqueer,12/29/1971,1,0,,1,0,0,Sales,Indonesia,Tambakmerak,8,Needs Improvement,Outstanding,Indian
+03-6964458,5/24/2022,Kip,Wybourne,Male,12/15/1992,1,0,,1,0,0,Engineering,Philippines,Bilaran,6,Unacceptable,Exceeds Expectations,Pakistani
+58-1270738,5/13/2020,Axel,Scogin,Male,12/6/1985,1,1,11/19/2019,1,0,1,Sales,Albania,Shezë,6,Meets Expectations,Outstanding,Bangladeshi
+40-7578712,2/21/2019,Dionisio,Tutchener,Male,6/20/1971,1,0,,1,0,0,Legal,Russia,Ukhta,10,Exceeds Expectations,Meets Expectations,Chinese
+03-8829431,1/23/2019,Barthel,Janowicz,Male,3/3/1979,1,0,,0,0,0,Product Management,Sweden,Göteborg,8,Outstanding,Needs Improvement,African
+56-2067747,11/29/2019,Herve,Von Der Empten,Male,10/22/1957,1,0,,1,0,0,Services,Philippines,Santa Ignacia,3,Needs Improvement,Unacceptable,Caribbean
+75-5537581,9/23/2022,Irina,Trahmel,Male,6/24/1984,1,0,,1,0,0,Engineering,Indonesia,Pacarkeling,10,Exceeds Expectations,Unacceptable,White
+20-1582850,4/8/2020,Ileana,Dammarell,Female,7/26/1973,1,1,2/27/2021,1,0,1,Accounting,Greece,Xylaganí,7,Unacceptable,Needs Improvement,Arab
+01-3618627,12/16/2021,Hayley,Prentice,Female,4/19/1979,1,0,,1,0,0,Marketing,Kenya,Kilifi,10,Exceeds Expectations,Unacceptable,Irish
+51-1606278,4/22/2019,Papageno,Greenhall,Male,2/3/1965,1,0,,0,0,0,Human Resources,Russia,Pervoavgustovskiy,2,Exceeds Expectations,Exceeds Expectations,African
+15-9340871,4/22/2019,Quintus,Joselin,Male,11/10/1979,1,1,2/16/2019,1,0,1,Engineering,Bulgaria,Kavarna,1,Unacceptable,Needs Improvement,Arab
+33-0632071,10/2/2019,Mohammed,Lesslie,Male,3/1/1950,1,0,,0,0,0,Marketing,Russia,Nizhniy Chir,1,Exceeds Expectations,Unacceptable,Indian
+25-1178890,1/31/2020,Alexandre,Novotni,Male,1/22/1970,1,0,,1,0,0,Training,Indonesia,Seririt,7,Meets Expectations,Exceeds Expectations,Bangladeshi
+80-8823727,11/19/2021,Sidney,Sikora,Male,6/28/1960,1,0,,0,0,0,Product Management,Colombia,Líbano,10,Meets Expectations,Unacceptable,African
+14-5975618,1/23/2022,Cary,MacGahy,Male,12/25/1960,1,0,,1,0,0,Training,Indonesia,Bangunsari,9,Outstanding,Outstanding,White
+05-1248270,3/28/2020,Velma,Postan,Female,12/10/1992,1,0,,1,0,0,Training,Poland,Boleszkowice,5,Needs Improvement,Meets Expectations,White 
+41-9709784,10/11/2021,Winston,Kingsman,Male,1/7/1968,1,1,1/26/2020,0,1,0,Accounting,China,Caijiang,3,Meets Expectations,Outstanding,White
+02-9864829,7/24/2021,Tiena,Capelle,Female,6/6/1993,1,1,7/4/2022,0,1,0,Support,China,Dafang,5,Needs Improvement,Needs Improvement,Chinese
+64-7030760,1/17/2020,Brendon,Temprell,Male,9/28/2003,1,0,,0,0,0,Sales,Indonesia,Sonlit,10,Meets Expectations,Unacceptable,Pakistani
+07-8787696,7/5/2022,Brenna,Meadway,Genderqueer,6/18/1995,1,0,,0,0,0,Product Management,Russia,Mezinovskiy,2,Meets Expectations,Exceeds Expectations,White
+23-3380456,2/3/2019,Emera,Fache,Female,4/16/1995,1,0,,0,0,0,Legal,China,Yedun,5,Outstanding,Needs Improvement,Indian
+06-9024503,12/5/2021,Osbourne,Bunney,Male,4/5/1986,1,0,,0,0,0,Human Resources,Colombia,Aldana,8,Unacceptable,Outstanding,Pakistani
+60-7565843,4/24/2021,Bobby,Extence,Male,8/25/1989,1,0,,0,0,0,Support,Brazil,Belo Horizonte,8,Needs Improvement,Unacceptable,Bangladeshi
+88-3491172,9/17/2019,Georgie,Adey,Male,1/17/1998,1,0,,0,0,0,Accounting,Indonesia,Lantera,2,Needs Improvement,Needs Improvement,Chinese
+69-3932901,9/17/2019,Peyton,Weatherhogg,Male,4/13/1982,1,0,,1,0,0,Product Management,China,Shima,10,Unacceptable,Outstanding,African
+07-4053412,4/22/2022,Phillip,Faas,Male,4/2/1995,1,0,,0,0,0,Training,Lithuania,Grigiškės,5,Needs Improvement,Outstanding,Caribbean
+68-4867690,11/3/2020,Jermaine,Whitesel,Male,9/6/1987,1,0,,1,0,0,Support,Russia,Orda,3,Meets Expectations,Meets Expectations,White
+87-8984077,7/30/2019,Marlo,Cotty,Male,6/5/1983,1,0,,0,0,0,Support,Czech Republic,Mnichovo Hradiště,7,Needs Improvement,Outstanding,Arab
+41-5755194,9/21/2019,Rog,Aberchirder,Male,3/15/1993,1,0,,1,0,0,Business Development,Poland,Frydek,6,Needs Improvement,Meets Expectations,Irish
+22-9616729,10/14/2021,Nissy,Skellen,Male,5/11/1992,1,0,,1,0,0,Engineering,Philippines,Manticao,10,Meets Expectations,Outstanding,African
+25-7493607,9/2/2020,Abbye,Lehrmann,Female,5/16/1989,1,0,,1,0,0,Marketing,Slovenia,Lendava,7,Exceeds Expectations,Exceeds Expectations,Arab
+68-4894979,3/15/2020,Aurilia,Esbrook,Genderqueer,10/19/1959,1,0,,1,0,0,Accounting,Sweden,Svenljunga,1,Outstanding,Meets Expectations,Indian
+86-1992976,2/7/2022,Tyler,Fyfe,Male,10/9/1971,1,0,,0,0,0,Engineering,Indonesia,Tempurejo,2,Meets Expectations,Needs Improvement,Bangladeshi
+48-3229030,12/19/2021,Esme,Balmadier,Female,5/3/1952,1,0,,0,0,0,Marketing,Russia,Pevek,9,Needs Improvement,Outstanding,African
+51-6088101,8/4/2021,Rourke,Cosgrive,Male,6/15/1993,1,1,6/27/2021,1,0,1,Human Resources,Russia,Bogoroditsk,6,Exceeds Expectations,Exceeds Expectations,White
+14-7315884,3/7/2019,Pearline,Ruddy,Female,3/16/1987,1,0,,1,0,0,Marketing,Indonesia,Lela,5,Exceeds Expectations,Needs Improvement,White 
+51-9126749,12/22/2019,Laney,Cleevely,Female,5/16/1980,1,0,,0,0,0,Product Management,Indonesia,Oebai,4,Needs Improvement,Outstanding,White
+33-8371829,1/26/2021,Rosalind,Garvagh,Female,3/3/1985,1,0,,1,0,0,Engineering,China,Mataigou,8,Needs Improvement,Unacceptable,Chinese
+14-0293176,4/11/2021,Ximenes,Palmar,Male,2/6/1975,1,0,,1,0,0,Legal,Jordan,Wādī as Sīr,9,Meets Expectations,Needs Improvement,Pakistani
+60-3230292,10/29/2021,Beaufort,Loyns,Agender,10/25/1976,1,0,,0,0,0,Product Management,Malta,L-Iklin,6,Exceeds Expectations,Needs Improvement,White
+74-1802137,12/9/2019,Ulla,Antonowicz,Female,6/16/1951,1,0,,0,0,0,Product Management,China,Zhoutian,8,Unacceptable,Outstanding,Indian
+56-9646781,4/2/2019,Raimondo,Trevers,Male,1/27/1977,1,0,,1,0,0,Support,Egypt,Ḩalwān,3,Needs Improvement,Unacceptable,Pakistani
+42-1225705,8/1/2019,Afton,McAirt,Female,5/12/1962,1,0,,0,0,0,Marketing,Vietnam,Cao Thượng,7,Exceeds Expectations,Unacceptable,Bangladeshi
+38-6100760,12/29/2020,Stafford,Gehricke,Genderqueer,6/5/1979,1,0,,1,0,0,Support,Syria,Al Khushnīyah,10,Outstanding,Meets Expectations,Chinese
+68-5715963,1/17/2022,Tabbie,Strangwood,Female,11/18/1978,1,1,5/26/2022,1,0,1,Training,Peru,Acobamba,2,Unacceptable,Unacceptable,African
+74-3833581,5/1/2020,Lulu,Crumpton,Female,4/14/1999,1,1,5/17/2019,0,1,0,Legal,Albania,Mollas,4,Unacceptable,Needs Improvement,Caribbean
+37-3341353,6/28/2021,Tami,Lambrecht,Female,6/10/1957,1,0,,1,0,0,Business Development,Azerbaijan,Kyurdarmir,2,Unacceptable,Needs Improvement,White
+30-0795877,3/29/2022,Stern,Erbain,Male,10/31/1952,1,1,12/25/2020,1,0,1,Support,Indonesia,Banjar Dauhpura,3,Outstanding,Outstanding,Arab
+40-8988135,4/3/2019,Gilli,McCambrois,Female,5/16/1950,1,0,,1,0,0,Marketing,Japan,Matsutō,3,Unacceptable,Unacceptable,Irish
+78-7162203,4/20/2022,Dwain,Cantopher,Male,1/4/1995,1,0,,0,0,0,Product Management,Indonesia,Sudikampir,5,Meets Expectations,Meets Expectations,African
+88-2891008,1/12/2022,Crissy,Graben,Female,9/30/1966,1,0,,1,0,0,Training,Ireland,Monaghan,9,Meets Expectations,Meets Expectations,Arab
+88-3923800,12/30/2020,Ozzie,Scoyles,Male,9/30/1962,1,0,,1,0,0,Research and Development,Indonesia,Cikaung,9,Outstanding,Unacceptable,Indian
+90-3550082,6/5/2021,Valene,Bycraft,Female,5/30/1985,1,0,,0,0,0,Product Management,Pakistan,Faruka,6,Exceeds Expectations,Outstanding,Bangladeshi
+72-8633393,12/19/2021,Donielle,Keyser,Female,9/4/1978,1,0,,0,0,0,Accounting,China,Mangdang,4,Meets Expectations,Exceeds Expectations,African
+98-3448509,10/21/2021,Gabbie,Florez,Female,11/27/1986,1,0,,1,0,0,Training,Greece,Diavatós,6,Exceeds Expectations,Needs Improvement,White
+51-8457257,7/6/2022,Wilie,Attewill,Female,4/11/1992,1,0,,0,0,0,Research and Development,Bangladesh,Nārāyanganj,9,Needs Improvement,Unacceptable,White 
+47-8060306,5/29/2022,Wylma,Moyne,Female,4/19/1955,1,0,,1,0,0,Support,Indonesia,Golopau,7,Exceeds Expectations,Exceeds Expectations,White
+63-3528689,8/21/2021,Tailor,Fernier,Genderfluid,6/23/2000,1,0,,1,0,0,Services,Turkmenistan,Boldumsaz,9,Outstanding,Exceeds Expectations,Chinese
+45-2216484,3/19/2021,Bjorn,McFfaden,Male,1/15/1990,1,0,,1,0,0,Research and Development,Indonesia,Utama Wetan,7,Unacceptable,Exceeds Expectations,Pakistani
+47-4147510,4/19/2022,Effie,Mapis,Female,11/24/1959,1,0,,1,0,0,Marketing,China,Zhelin,3,Exceeds Expectations,Needs Improvement,White
+08-4478657,3/21/2021,Cariotta,Yandell,Female,8/12/1965,1,0,,1,0,0,Services,France,Besançon,10,Unacceptable,Meets Expectations,Indian
+50-7031003,2/16/2020,Matthew,Chant,Male,2/12/1980,1,0,,0,0,0,Sales,Yemen,Khawr Maksar,4,Unacceptable,Needs Improvement,Pakistani
+33-3671986,6/18/2019,Corty,Luscott,Male,6/15/1958,1,0,,1,0,0,Business Development,Portugal,Vinha,9,Exceeds Expectations,Needs Improvement,Bangladeshi
+38-5162728,8/7/2020,Aubine,Blemings,Female,3/11/1983,1,0,,0,0,0,Business Development,Russia,Vyksa,1,Needs Improvement,Needs Improvement,Chinese
+60-0385545,12/20/2021,Zia,Rogister,Female,4/15/1973,1,0,,1,0,0,Sales,Portugal,Barqueiro,5,Needs Improvement,Exceeds Expectations,African
+26-6614688,11/1/2019,Nealon,Gye,Male,5/31/1951,1,0,,0,0,0,Research and Development,Russia,Yakovlevskoye,2,Meets Expectations,Meets Expectations,Caribbean
+50-5230144,6/12/2021,Lily,Bailie,Female,2/22/1996,1,1,9/24/2021,1,1,0,Legal,Armenia,Mrgavan,6,Meets Expectations,Outstanding,White
+41-9250081,9/26/2021,Tiffanie,Breydin,Female,2/12/1963,1,0,,1,0,0,Research and Development,Poland,Plewiska,5,Needs Improvement,Outstanding,Arab
+78-5786300,6/4/2021,Ransell,Hise,Male,4/3/1980,1,0,,1,0,0,Marketing,United Kingdom,Denton,1,Needs Improvement,Meets Expectations,Irish
+90-2534863,4/6/2021,Barnabas,Handling,Male,9/7/1990,1,0,,1,0,0,Legal,China,Bianzhuang,1,Outstanding,Meets Expectations,African
+35-2008905,5/28/2021,Winnie,Clough,Male,4/26/1994,1,0,,1,0,0,Engineering,China,Nanping,10,Meets Expectations,Exceeds Expectations,Arab
+97-8672257,7/31/2019,Lita,Crackel,Female,7/17/1998,1,0,,1,0,0,Research and Development,Mexico,Independencia,9,Exceeds Expectations,Outstanding,Indian
+10-0755806,2/12/2022,Patty,Jiggen,Male,2/26/1958,1,0,,0,0,0,Business Development,Indonesia,Kalianda,2,Meets Expectations,Unacceptable,Bangladeshi
+13-6964545,7/4/2021,Ellie,Webben,Male,11/26/1977,1,0,,1,0,0,Engineering,Portugal,Cortiçóis,6,Meets Expectations,Needs Improvement,African
+75-3523691,5/23/2019,Ardella,Killford,Female,5/19/2002,1,0,,0,0,0,Product Management,China,Kugri,1,Unacceptable,Needs Improvement,White
+56-2777451,5/14/2020,Nichole,Linguard,Female,2/23/1952,1,1,6/1/2022,0,0,1,Legal,Belgium,Bouillon,5,Meets Expectations,Meets Expectations,White 
+16-7187319,11/19/2021,Alexandrina,Tuttle,Female,5/25/1978,1,1,12/31/2019,1,0,1,Marketing,Brazil,Pontal,10,Meets Expectations,Exceeds Expectations,White
+01-1573224,7/14/2022,Lanna,Croser,Female,1/27/1995,1,0,,0,0,0,Marketing,Sweden,Västerås,8,Meets Expectations,Outstanding,Chinese
+23-5251446,3/16/2020,Chevy,Kuzma,Male,3/19/1971,1,0,,0,0,0,Legal,China,Xihuaiba,7,Needs Improvement,Unacceptable,Pakistani
+55-1474079,4/24/2020,Corilla,Tapley,Female,11/15/1960,1,0,,1,0,0,Sales,China,Tongjiang,4,Meets Expectations,Unacceptable,White
+99-8163421,6/1/2019,Sandra,Gellately,Female,5/13/1984,1,1,6/15/2021,1,1,0,Marketing,Czech Republic,Třebíč,9,Unacceptable,Meets Expectations,Indian
+41-8401146,6/9/2020,Andris,Nevill,Male,2/9/1991,1,1,2/3/2022,0,1,0,Support,United Kingdom,Linton,6,Exceeds Expectations,Exceeds Expectations,Pakistani
+79-7029668,3/22/2019,Erminia,Potten,Female,11/19/2000,1,0,,1,0,0,Training,Poland,Kokotów,3,Exceeds Expectations,Meets Expectations,Bangladeshi
+94-0604290,3/28/2021,Duff,Yggo,Male,1/12/1994,1,0,,1,0,0,Training,Netherlands,Breda,1,Outstanding,Outstanding,Chinese
+77-3734085,3/29/2021,Clayson,Whimper,Male,4/16/1980,1,0,,0,0,0,Product Management,Indonesia,Maredakalada,5,Needs Improvement,Exceeds Expectations,African
+09-8466005,6/3/2020,Etti,MacHostie,Genderfluid,4/29/1991,1,1,3/30/2022,0,1,0,Accounting,Indonesia,Onan Ganjang Satu,3,Exceeds Expectations,Unacceptable,Caribbean
+72-9379087,4/12/2022,Sib,Hailwood,Female,6/20/1978,1,0,,1,0,0,Marketing,Philippines,Buliran,8,Unacceptable,Needs Improvement,White
+89-1655257,5/8/2021,Ambrosi,Cluckie,Male,9/27/1990,1,0,,0,0,0,Research and Development,France,Melun,2,Needs Improvement,Unacceptable,Arab
+47-5882884,3/25/2021,Clywd,Chapleo,Male,1/6/1960,1,0,,0,0,0,Marketing,Italy,Genova,8,Exceeds Expectations,Exceeds Expectations,Irish
+82-1517602,5/6/2022,Danny,Jorck,Male,12/1/1988,1,0,,0,0,0,Research and Development,Vietnam,Vạn Giã,5,Unacceptable,Outstanding,African
+90-5922516,5/15/2021,Quinn,Cashley,Female,11/6/1972,1,0,,1,0,0,Services,Russia,Uzlovaya,5,Outstanding,Unacceptable,Arab
+29-5145954,10/28/2019,Lexie,Brevitt,Female,1/28/1999,1,0,,1,0,0,Accounting,Philippines,Cabusao,3,Meets Expectations,Needs Improvement,Indian
+22-9849270,9/17/2019,Rosanne,Parmby,Female,8/11/1991,1,0,,1,0,0,Training,Philippines,Tipo-Tipo,9,Exceeds Expectations,Needs Improvement,Bangladeshi
+33-7744658,2/28/2019,Cordie,Wooller,Female,4/2/1958,1,0,,1,0,0,Support,Indonesia,Imulolong,10,Needs Improvement,Exceeds Expectations,African
+81-1642805,7/20/2019,Shani,Pietranek,Female,7/30/1983,1,1,1/30/2019,1,1,0,Training,Ukraine,Otyniya,4,Meets Expectations,Needs Improvement,White
+80-1087728,9/27/2019,Juliana,Gellett,Female,9/9/1991,1,0,,1,0,0,Sales,Philippines,San Pedro One,8,Exceeds Expectations,Outstanding,White 
+61-2166692,12/25/2019,Randene,Laxen,Female,10/24/1980,1,0,,1,0,0,Product Management,Russia,Zheleznodorozhnyy,3,Exceeds Expectations,Exceeds Expectations,White
+47-9591247,1/3/2020,June,MacAndrew,Female,7/5/1994,1,0,,0,0,0,Services,Lesotho,Butha-Buthe,5,Meets Expectations,Outstanding,Chinese
+12-5183115,11/6/2020,Gregor,Franceschi,Male,5/21/1963,1,0,,0,0,0,Accounting,United States,Saint Petersburg,7,Unacceptable,Needs Improvement,Pakistani
+55-8740962,1/31/2021,Mason,Paff,Male,5/30/2003,1,0,,0,0,0,Business Development,Ireland,Lucan,8,Outstanding,Outstanding,White
+18-0103481,7/26/2022,Chantal,Parysiak,Female,7/6/1987,1,0,,1,0,0,Human Resources,Indonesia,Cibitung,1,Outstanding,Exceeds Expectations,Indian
+98-9914943,7/30/2019,Wendy,Drillingcourt,Female,5/19/1990,1,0,,1,0,0,Training,Argentina,Villa Ojo de Agua,4,Outstanding,Outstanding,Pakistani
+04-2593369,5/29/2019,Barron,Nix,Female,4/10/2000,1,0,,1,0,0,Legal,Austria,Altenberg bei Linz,5,Outstanding,Outstanding,Bangladeshi
+84-3181628,6/10/2019,Selina,Carletti,Female,4/22/1974,1,0,,0,0,0,Legal,Indonesia,Ciseureuheun,1,Outstanding,Unacceptable,Chinese
+22-9978571,3/15/2021,Shae,McBean,Female,1/1/1972,1,0,,0,0,0,Support,Poland,Mstów,7,Needs Improvement,Outstanding,African
+39-6516881,5/12/2022,Sonnnie,Smeal,Female,4/27/1983,1,1,6/20/2022,1,0,1,Product Management,New Zealand,Whakatane,3,Exceeds Expectations,Needs Improvement,Caribbean
+73-8886281,4/26/2021,Norine,Nunnerley,Female,5/28/1987,1,0,,0,0,0,Legal,China,Tange Zhen,7,Needs Improvement,Unacceptable,White
+70-8130975,2/11/2022,Gussi,Ghioni,Polygender,2/3/1980,1,0,,1,0,0,Product Management,Indonesia,Belang,4,Exceeds Expectations,Outstanding,Arab
+03-6179388,7/17/2021,Burg,Liveing,Male,5/3/1980,1,0,,0,0,0,Legal,China,Qiaotou,8,Meets Expectations,Needs Improvement,Irish
+15-9028390,4/22/2022,Theodore,Longworthy,Male,1/19/1997,1,0,,0,0,0,Engineering,Greece,Asprángeloi,5,Needs Improvement,Needs Improvement,African
+35-7017670,2/7/2021,Gerek,Imason,Male,1/29/1983,1,0,,0,0,0,Training,Poland,Wesoła,2,Unacceptable,Exceeds Expectations,Arab
+30-2763916,1/30/2020,Mae,Sex,Genderfluid,2/10/1960,1,0,,0,0,0,Accounting,Brazil,Sacramento,8,Meets Expectations,Outstanding,Indian
+34-1263991,10/6/2019,Solomon,Mulvagh,Male,5/23/1968,1,0,,0,0,0,Human Resources,Brazil,Ijuí,5,Outstanding,Outstanding,Bangladeshi
+71-7605294,3/17/2020,Antonino,Aronin,Male,12/9/1956,1,0,,0,0,0,Accounting,Saint Lucia,Canaries,9,Outstanding,Unacceptable,African
+44-7358723,11/14/2019,Reiko,Torrijos,Female,4/1/1983,1,0,,0,0,0,Engineering,Ireland,Arklow,7,Unacceptable,Meets Expectations,White
+99-9289182,3/29/2022,Fons,Wetter,Male,8/5/1990,1,0,,1,0,0,Engineering,Sweden,Billdal,8,Unacceptable,Meets Expectations,White 
+92-1273033,3/20/2020,Romain,Grayshan,Male,11/29/1985,1,0,,0,0,0,Accounting,Philippines,Lila,6,Unacceptable,Needs Improvement,White
+94-5568989,2/22/2020,Cordelie,Razoux,Female,6/15/1974,1,0,,0,0,0,Marketing,China,Longzui,10,Exceeds Expectations,Meets Expectations,Chinese
+64-7875950,4/14/2020,Elfreda,Etchingham,Female,6/27/1987,1,0,,0,0,0,Sales,Poland,Kawęczyn,9,Exceeds Expectations,Meets Expectations,Pakistani
+13-8866197,11/19/2021,Elaine,Westrey,Female,11/4/1984,1,1,4/12/2019,0,0,1,Services,Russia,Uchaly,1,Needs Improvement,Needs Improvement,White
+42-9804822,11/25/2020,Hewett,Remirez,Male,4/15/1972,1,0,,1,0,0,Marketing,Macedonia,Матејче,2,Outstanding,Exceeds Expectations,Indian
+60-6148603,11/18/2021,Kaleena,McMurty,Female,6/9/1968,1,0,,1,0,0,Accounting,Philippines,Palangue,5,Meets Expectations,Unacceptable,Pakistani
+64-5540780,4/6/2021,Hernando,Moro,Male,4/23/1983,1,1,5/18/2021,0,1,0,Training,Chad,Aozou,4,Exceeds Expectations,Needs Improvement,Bangladeshi
+28-8899894,2/6/2022,Dav,Airy,Male,3/15/1957,1,1,3/6/2020,0,0,1,Product Management,Egypt,Akhmīm,4,Unacceptable,Unacceptable,Chinese
+86-4677946,1/13/2020,Crissie,Vale,Female,8/11/1995,1,0,,0,0,0,Business Development,Greece,Anthoúsa,3,Exceeds Expectations,Meets Expectations,African
+78-9066163,5/11/2020,Claudie,Vicioso,Non-binary,7/22/1983,1,0,,0,0,0,Accounting,Yemen,Al Munīrah,2,Outstanding,Exceeds Expectations,Caribbean
+64-7276053,1/23/2021,Larry,Kliemann,Male,11/16/1994,1,0,,1,0,0,Marketing,Portugal,Azenhas do Mar,9,Outstanding,Unacceptable,White
+67-7897669,11/22/2021,Rudolph,Riediger,Male,8/19/1974,1,0,,1,0,0,Training,China,Zonghan,4,Unacceptable,Unacceptable,Arab
+80-2153653,2/29/2020,Mervin,Lamball,Male,8/7/1960,1,0,,0,0,0,Marketing,Russia,Tuapse,10,Needs Improvement,Meets Expectations,Irish
+44-0636914,7/20/2022,Edlin,Lundberg,Male,9/4/1960,1,0,,1,0,0,Sales,Botswana,Nokaneng,5,Needs Improvement,Unacceptable,African
+96-7913953,5/7/2020,Erek,Rissom,Male,10/14/1955,1,0,,1,0,0,Human Resources,Indonesia,Lodan Wetan,7,Unacceptable,Unacceptable,Arab
+00-9139443,9/7/2021,Jacquelin,Ca,Female,5/7/1955,1,0,,0,0,0,Marketing,Japan,Komono,4,Unacceptable,Outstanding,Indian
+68-0749365,3/2/2020,Ariella,Vause,Female,3/6/1954,1,0,,1,0,0,Human Resources,Cuba,Perico,2,Outstanding,Unacceptable,Bangladeshi
+77-1611149,7/15/2021,Gale,Drillot,Male,8/18/1999,1,0,,0,0,0,Human Resources,Russia,Vilya,10,Unacceptable,Outstanding,African
+64-7785996,3/3/2019,Winthrop,Burnes,Male,2/4/1956,1,1,9/29/2022,1,0,1,Human Resources,France,Saint-Laurent-Blangy,10,Unacceptable,Needs Improvement,White
+17-7977976,6/11/2022,Sanson,Jeanel,Male,11/21/1978,1,0,,1,0,0,Training,Poland,Boguszów-Gorce,1,Unacceptable,Meets Expectations,White 
+43-3519751,5/22/2021,Ranice,Tschirasche,Female,4/5/1975,1,0,,0,0,0,Research and Development,China,Luyang,4,Exceeds Expectations,Outstanding,White
+40-9979051,11/27/2019,Garth,Janson,Genderfluid,12/17/1984,1,0,,0,0,0,Marketing,Greece,Árta,4,Unacceptable,Unacceptable,Chinese
+66-4140558,8/6/2022,Noland,Buxsey,Male,12/2/1957,1,0,,1,0,0,Marketing,Tanzania,Ilembula,1,Unacceptable,Needs Improvement,Pakistani
+74-7733842,10/29/2019,Athene,Capitano,Female,7/24/1993,1,0,,0,0,0,Human Resources,Ivory Coast,Agboville,7,Meets Expectations,Exceeds Expectations,White
+82-5242121,6/1/2019,Ray,Bernaldo,Female,11/7/1970,1,0,,0,0,0,Training,Indonesia,Cikadondongdesa,10,Exceeds Expectations,Exceeds Expectations,Indian
+31-3630171,2/13/2021,Brennen,Cossom,Male,2/9/1982,1,0,,1,0,0,Support,United States,Arlington,3,Unacceptable,Needs Improvement,Pakistani
+20-4417809,1/2/2021,Xever,Corwin,Male,5/30/1996,1,0,,1,0,0,Human Resources,Brazil,Barão de Melgaço,3,Outstanding,Outstanding,Bangladeshi
+50-6243571,7/18/2021,Lamond,Tuminini,Male,2/7/1979,1,0,,0,0,0,Research and Development,Philippines,Binubusan,8,Outstanding,Meets Expectations,Chinese
+75-9769567,5/27/2022,Kaspar,Kemmer,Male,12/1/1985,1,1,1/22/2019,1,1,0,Support,Ukraine,Kornyn,5,Unacceptable,Needs Improvement,African
+30-4277564,6/11/2022,Alonso,Antoszewski,Male,7/19/1999,1,0,,0,0,0,Human Resources,Russia,Zheleznogorsk,1,Meets Expectations,Unacceptable,Caribbean
+75-5081269,3/12/2020,Daria,Savile,Genderqueer,12/28/1974,1,0,,1,0,0,Services,Philippines,Abucay,7,Meets Expectations,Exceeds Expectations,White
+56-5421144,8/16/2021,Theodosia,Chretien,Female,11/6/1954,1,0,,0,0,0,Sales,Portugal,Selmes,6,Outstanding,Unacceptable,Arab
+40-9953328,11/27/2019,Nicolais,Van Rembrandt,Male,12/20/1994,1,0,,1,0,0,Research and Development,Panama,El Rincón,7,Meets Expectations,Outstanding,Irish
+05-9836537,5/25/2021,Kally,Matousek,Female,7/11/1960,1,0,,0,0,0,Product Management,Russia,Saratov,1,Meets Expectations,Unacceptable,African
+54-8480862,6/27/2019,Niccolo,Culham,Male,5/23/1986,1,0,,1,0,0,Accounting,Indonesia,Tolomango,8,Exceeds Expectations,Outstanding,Arab
+88-9296699,11/15/2021,Evey,Collie,Genderqueer,12/17/1962,1,1,11/8/2022,0,1,0,Product Management,Russia,Ob’,2,Outstanding,Outstanding,Indian
+40-8623225,5/28/2019,Zahara,Mollett,Non-binary,12/20/1994,1,0,,1,0,0,Marketing,Russia,Nezhinka,6,Exceeds Expectations,Unacceptable,Bangladeshi
+30-7029315,1/31/2021,Elana,MacAindreis,Female,8/19/1951,1,1,2/28/2019,0,0,1,Legal,Faroe Islands,Sandur,3,Needs Improvement,Needs Improvement,African
+63-8947885,4/18/2019,Mill,Kemmis,Male,10/3/1981,1,0,,0,0,0,Accounting,Sweden,Mariefred,1,Unacceptable,Needs Improvement,White
+29-6142320,12/1/2020,Anne-marie,Marcos,Female,6/1/1979,1,0,,1,0,0,Marketing,Egypt,Bilbays,10,Exceeds Expectations,Unacceptable,White 
+83-0753760,1/22/2022,Corene,Seggie,Female,2/23/1966,1,0,,0,0,0,Training,Indonesia,Bunirasa,9,Exceeds Expectations,Needs Improvement,White
+90-4727712,5/31/2022,Serge,Stanlake,Male,6/20/1980,1,0,,0,0,0,Accounting,Brazil,Rio Verde de Mato Grosso,3,Outstanding,Unacceptable,Chinese
+98-2409449,4/16/2022,Aldo,Saltrese,Male,8/16/1963,1,0,,1,0,0,Sales,China,Erdu,9,Needs Improvement,Meets Expectations,Pakistani
+70-2127300,12/25/2019,Kamila,Danilyak,Female,12/30/1956,1,1,5/25/2020,1,0,1,Human Resources,Russia,Partizan,2,Outstanding,Exceeds Expectations,White
+84-6822939,11/5/2019,Witty,Bosse,Male,12/25/1965,1,0,,0,0,0,Human Resources,Indonesia,Ciusul,4,Meets Expectations,Exceeds Expectations,Indian
+08-7965960,8/28/2020,Martguerita,Sivior,Female,6/25/1975,1,0,,1,0,0,Training,Ireland,Muff,3,Outstanding,Unacceptable,Pakistani
+54-5499648,4/14/2022,Lyndsie,Wilcocke,Female,8/21/1987,1,0,,0,0,0,Research and Development,France,Orléans,4,Needs Improvement,Outstanding,Bangladeshi
+08-8938437,7/12/2020,Orlan,Szubert,Male,8/3/1955,1,1,4/1/2019,0,1,0,Support,Russia,Issad,8,Outstanding,Outstanding,Chinese
+60-7088263,10/5/2019,Brenda,Dufty,Female,7/24/1981,1,1,12/30/2019,1,1,0,Research and Development,Albania,Kthella e Epërme,5,Needs Improvement,Unacceptable,African
+20-6304606,1/25/2020,Meghann,Down,Female,1/16/1978,1,1,2/29/2020,0,0,1,Research and Development,Czech Republic,Cheb,8,Meets Expectations,Outstanding,Caribbean
+28-5954705,3/20/2022,Rancell,Cosgrave,Male,7/28/2000,1,0,,0,0,0,Marketing,Ukraine,Zvenyhorodka,1,Needs Improvement,Meets Expectations,White
+09-3689037,2/17/2021,Ker,Goakes,Male,8/17/1955,1,0,,0,0,0,Business Development,Indonesia,Padangbatung,7,Meets Expectations,Outstanding,Arab
+56-4670645,9/16/2021,Kelsi,Keeves,Male,7/11/1968,1,0,,1,0,0,Legal,Brazil,Juripiranga,1,Outstanding,Unacceptable,Irish
+95-1253020,3/5/2021,Sosanna,Spat,Female,1/13/1977,1,1,3/5/2022,1,1,0,Training,Ukraine,Alchevs’k,4,Meets Expectations,Unacceptable,African
+40-2406343,4/20/2020,Delcina,Goodfellowe,Female,6/21/2002,1,0,,0,0,0,Marketing,Russia,Nizhnyaya Salda,6,Outstanding,Unacceptable,Arab
+04-9782912,4/3/2019,Geneva,Benford,Non-binary,8/27/1968,1,0,,1,0,0,Business Development,Indonesia,Karangarjo,3,Exceeds Expectations,Exceeds Expectations,Indian
+55-7504451,12/25/2020,Aviva,Phython,Male,4/6/1998,1,0,,1,0,0,Legal,Colombia,Cubará,1,Meets Expectations,Needs Improvement,Bangladeshi
+42-0662441,1/8/2020,Frasco,Halbeard,Male,2/28/1995,1,0,,1,0,0,Accounting,Indonesia,Salanegara,2,Exceeds Expectations,Meets Expectations,African
+65-7791350,4/24/2020,Crin,Rudall,Female,6/2/2002,1,1,11/13/2020,0,1,0,Business Development,China,Xiaolan,3,Meets Expectations,Unacceptable,White
+55-3311976,7/31/2021,Rosalyn,Baudts,Female,6/25/1982,1,0,,0,0,0,Legal,Russia,Abakan,8,Needs Improvement,Needs Improvement,White 
+88-9518905,11/12/2021,Kingsly,Kingcote,Male,5/10/1978,1,0,,0,0,0,Sales,China,Shitang,7,Needs Improvement,Meets Expectations,White
+09-0128273,9/4/2020,Melva,Danihel,Female,9/28/1959,1,0,,0,0,0,Training,Moldova,Orhei,7,Needs Improvement,Unacceptable,Chinese
+04-3037904,10/10/2021,Elbertine,Pie,Female,4/15/1991,1,0,,1,0,0,Marketing,China,Shankeng,5,Unacceptable,Meets Expectations,Pakistani
+21-6281037,4/3/2021,Billie,Alleyn,Male,10/21/1965,1,0,,0,0,0,Marketing,South Korea,Gyodong,2,Meets Expectations,Meets Expectations,White
+09-1702325,10/15/2021,Hermione,Monckman,Female,10/24/1967,1,0,,1,0,0,Accounting,Sweden,Tungelsta,6,Needs Improvement,Needs Improvement,Chinese
+42-5284050,8/9/2022,Ado,Beswick,Male,8/8/2000,1,0,,1,0,0,Services,Japan,Kamiichi,4,Outstanding,Exceeds Expectations,Pakistani
+28-1954477,8/28/2019,Marget,Slee,Female,7/11/1954,1,0,,0,0,0,Support,Argentina,Villa Ángela,8,Needs Improvement,Needs Improvement,White
+79-5346829,3/6/2021,Shae,Durban,Male,4/21/1995,1,1,10/17/2019,1,1,0,Marketing,Turkmenistan,Türkmenbaşy,3,Needs Improvement,Meets Expectations,Indian
+45-2114002,4/28/2020,Noland,Kmietsch,Female,4/22/1994,1,0,,1,0,0,Legal,China,Sanxianling,9,Needs Improvement,Needs Improvement,Pakistani
+40-4406009,10/8/2019,Meggie,Garms,Female,1/5/1964,1,0,,0,0,0,Marketing,Philippines,Cartagena,2,Outstanding,Unacceptable,Bangladeshi
+31-0149743,3/18/2021,Daphene,Holberry,Male,11/2/1979,1,0,,1,0,0,Engineering,China,Guandu,10,Unacceptable,Unacceptable,Chinese
+74-5133997,9/9/2022,Fulvia,Chaplin,Female,12/11/1958,1,0,,1,0,0,Business Development,China,Yuguan,5,Unacceptable,Outstanding,African
+90-7357071,10/12/2021,Ring,Puller,Male,8/5/1965,1,0,,1,0,0,Human Resources,Ukraine,Nemyriv,2,Meets Expectations,Needs Improvement,Caribbean
+16-2607844,8/4/2020,Skelly,Surby,Male,7/2/1982,1,0,,1,0,0,Support,Cuba,Perico,1,Meets Expectations,Unacceptable,White
+24-5476146,7/20/2019,Mala,Jaye,Female,2/19/1966,1,0,,0,0,0,Engineering,China,Shanggu,3,Outstanding,Needs Improvement,Arab
+55-3711973,1/14/2022,Morlee,Stockall,Male,8/9/1967,1,0,,1,0,0,Business Development,Indonesia,Rajadesa,6,Exceeds Expectations,Needs Improvement,Irish
+40-7023831,10/13/2019,Darryl,Blincko,Male,9/20/1957,1,0,,1,0,0,Product Management,China,Guangchen,6,Meets Expectations,Exceeds Expectations,African
+84-3164251,9/1/2019,Kata,Mustin,Female,4/29/1968,1,1,7/20/2019,0,0,1,Business Development,China,Damao,2,Meets Expectations,Unacceptable,Arab
+62-6450015,3/10/2019,Garold,Mussett,Male,8/5/1983,1,0,,1,0,0,Support,China,Xinzha,4,Outstanding,Exceeds Expectations,Indian
+59-3586392,8/18/2019,Prudence,Dytham,Female,2/19/1969,1,0,,0,0,0,Services,Sweden,Åkersberga,4,Outstanding,Needs Improvement,Bangladeshi
+74-5095725,9/8/2021,Ennis,Smeall,Non-binary,7/22/1950,1,0,,0,0,0,Business Development,Russia,Novoalekseyevskaya,7,Needs Improvement,Outstanding,African
+69-5762079,6/15/2020,Eli,Shambrooke,Male,8/17/1958,1,0,,0,0,0,Human Resources,Vietnam,Thị Trấn Mù Cang Chải,1,Unacceptable,Needs Improvement,White
+01-9616666,7/19/2022,Jeanne,Tunniclisse,Non-binary,3/14/1969,1,0,,1,0,0,Human Resources,Argentina,Villa Castelli,2,Outstanding,Unacceptable,White 
+92-0688084,10/17/2020,Merl,Stock,Female,4/13/1967,1,0,,0,0,0,Accounting,China,Qizhen,3,Exceeds Expectations,Meets Expectations,White
+92-6936739,9/9/2021,Alexis,Wellbeloved,Female,6/17/1969,1,1,1/7/2022,1,1,0,Research and Development,China,Xushan,5,Exceeds Expectations,Meets Expectations,Chinese
+53-3103772,2/13/2020,Claire,Terran,Male,12/17/1951,1,1,4/19/2019,0,0,1,Engineering,Hungary,Budapest,7,Unacceptable,Unacceptable,Pakistani
+18-7110703,9/27/2021,Oran,Whisby,Male,10/20/1998,1,0,,0,0,0,Human Resources,Kazakhstan,Ordzhonikidze,4,Meets Expectations,Exceeds Expectations,White
+62-1710833,11/19/2019,Danya,Castagnone,Male,7/23/1962,1,0,,1,0,0,Services,China,Huangma,1,Meets Expectations,Unacceptable,Indian
+27-6025065,12/27/2019,Fabiano,Archambault,Male,5/13/1952,1,0,,1,0,0,Services,Philippines,Bilao,4,Outstanding,Needs Improvement,Pakistani
+05-2467127,2/7/2021,Carce,Blackster,Male,5/9/1963,1,0,,0,0,0,Services,Indonesia,Gugut,4,Exceeds Expectations,Exceeds Expectations,Bangladeshi
+08-6976352,11/3/2020,Carlene,Dany,Female,9/30/1974,1,0,,1,0,0,Support,Philippines,Tudela,1,Exceeds Expectations,Needs Improvement,Chinese
+32-2745197,8/3/2020,Riki,O'Hagan,Female,1/4/1993,1,0,,0,0,0,Services,Philippines,Bago City,4,Unacceptable,Outstanding,African
+15-7242336,10/31/2020,Auria,Varvell,Female,3/25/1956,1,0,,0,0,0,Legal,Slovenia,Bakovci,9,Outstanding,Needs Improvement,Caribbean
+39-9662696,5/5/2022,Phaidra,Conisbee,Male,4/16/2002,1,0,,0,0,0,Engineering,China,Weixin,10,Unacceptable,Unacceptable,White
+91-6264358,1/24/2022,Jermayne,Loseke,Male,12/16/1962,1,1,4/23/2019,1,0,1,Training,Philippines,Balinad,4,Needs Improvement,Exceeds Expectations,Arab
+17-5729150,5/11/2021,Noland,Zappel,Male,6/6/1973,1,0,,1,0,0,Product Management,Botswana,Tonota,3,Needs Improvement,Outstanding,Irish
+44-7342566,12/2/2020,Fritz,Feronet,Male,8/12/1982,1,0,,0,0,0,Business Development,Indonesia,Imulolong,10,Exceeds Expectations,Unacceptable,African
+35-1968017,12/26/2021,Emlynn,Smaridge,Female,2/16/1976,1,0,,1,0,0,Human Resources,Indonesia,Pakong,10,Exceeds Expectations,Unacceptable,Arab
+80-0011613,9/15/2020,Holden,Lister,Male,5/27/1952,1,0,,0,0,0,Support,Indonesia,Kotabumi,6,Unacceptable,Unacceptable,Indian
+56-8534313,12/9/2021,Rodge,Skully,Male,2/4/1972,1,1,4/17/2020,1,0,1,Product Management,Philippines,Consolacion,1,Meets Expectations,Exceeds Expectations,Bangladeshi
+67-4641054,10/6/2021,Klaus,Simmon,Male,5/14/1960,1,0,,1,0,0,Business Development,United States,Dallas,6,Exceeds Expectations,Unacceptable,African
+05-8721570,8/28/2022,Goddart,Readitt,Male,9/15/1997,1,0,,1,0,0,Support,China,Zhili,10,Outstanding,Outstanding,White
+99-1487077,10/5/2021,Traci,Clemont,Female,12/31/1978,1,0,,1,0,0,Marketing,Brazil,Satuba,8,Needs Improvement,Needs Improvement,White 
+90-2421154,9/14/2019,Friederike,Stallard,Female,1/1/1984,1,0,,0,0,0,Marketing,Poland,Załuski,4,Unacceptable,Exceeds Expectations,White
+63-7616497,4/12/2019,Carley,Redihalgh,Female,11/25/1995,1,0,,0,0,0,Services,Indonesia,Cikabuyutan Barat,5,Outstanding,Meets Expectations,Chinese
+38-1712648,12/11/2021,Paton,Jonke,Male,3/8/1987,1,0,,0,0,0,Research and Development,United States,Scottsdale,6,Unacceptable,Exceeds Expectations,Pakistani
+91-9666757,5/3/2021,Alain,Laughrey,Male,10/6/1992,1,0,,1,0,0,Human Resources,Nigeria,Oji River,10,Unacceptable,Unacceptable,White
+99-3861397,4/25/2019,Pat,Anear,Female,2/23/1969,1,0,,1,0,0,Human Resources,Russia,Rassvet,8,Unacceptable,Needs Improvement,Indian
+71-1799435,8/24/2020,Jarrod,Rau,Male,11/26/1955,1,0,,0,0,0,Marketing,Philippines,Cabungan,4,Exceeds Expectations,Exceeds Expectations,Pakistani
+74-8931741,8/24/2022,Deerdre,Telling,Female,9/23/1967,1,0,,0,0,0,Legal,France,Aubagne,1,Needs Improvement,Outstanding,Bangladeshi
+36-6479875,8/14/2019,Teddie,Everit,Male,2/7/1980,1,0,,1,0,0,Product Management,Cuba,Esmeralda,1,Needs Improvement,Exceeds Expectations,Chinese
+76-9406880,8/26/2019,Jonas,Tunnick,Male,1/24/1978,1,0,,1,0,0,Human Resources,Afghanistan,Āsmār,3,Needs Improvement,Outstanding,African
+03-6751921,5/19/2019,Hildegaard,Lean,Female,9/11/1969,1,0,,0,0,0,Legal,Ukraine,Pidhaytsi,2,Unacceptable,Meets Expectations,Caribbean
+94-1804874,9/29/2019,Lindsay,Troutbeck,Male,5/22/1956,1,0,,1,0,0,Research and Development,Philippines,San Francisco,9,Unacceptable,Exceeds Expectations,White
+79-5803537,9/12/2022,Renato,Kubik,Male,10/1/1999,1,0,,1,0,0,Business Development,Nigeria,Kwale,10,Meets Expectations,Needs Improvement,Arab
+41-3131349,3/26/2022,Myrtle,Dimic,Female,4/1/1955,1,0,,1,0,0,Training,United States,Anniston,7,Unacceptable,Unacceptable,Irish
+56-9948610,7/9/2019,Kurtis,Reeders,Male,8/12/1963,1,0,,1,0,0,Services,Laos,Pakxong,10,Outstanding,Needs Improvement,African
+91-0330796,7/30/2021,Fredek,Penella,Male,11/9/1966,1,0,,0,0,0,Marketing,Syria,Sa‘sa‘,2,Needs Improvement,Unacceptable,Arab
+19-6606753,12/31/2020,Dru,Godain,Male,7/28/1956,1,0,,0,0,0,Business Development,Greece,Aráchova,6,Meets Expectations,Exceeds Expectations,Indian
+44-7295263,7/15/2021,Garold,Beckford,Male,4/26/2001,1,0,,0,0,0,Sales,Portugal,Gradil,5,Exceeds Expectations,Meets Expectations,Bangladeshi
+87-8975058,1/27/2020,Ruprecht,Armstrong,Male,2/15/1964,1,0,,0,0,0,Human Resources,China,Guanzhou,5,Meets Expectations,Needs Improvement,African
+79-5016537,4/8/2019,Kenn,Money,Male,10/16/1981,1,0,,1,0,0,Human Resources,Israel,Na'ale,8,Outstanding,Needs Improvement,White
+05-6988038,2/17/2019,Dru,Kermon,Male,12/18/1970,1,0,,1,0,0,Sales,Albania,Poroçan,1,Meets Expectations,Exceeds Expectations,White 
+16-3921521,1/3/2022,Lou,Lukianovich,Male,3/22/1956,1,0,,0,0,0,Support,Ukraine,Hlyboka,4,Outstanding,Outstanding,White
+04-8099519,7/31/2022,Patrizio,Pock,Male,5/18/1964,1,1,5/25/2022,0,1,0,Marketing,France,Bourg-en-Bresse,7,Exceeds Expectations,Outstanding,Chinese
+91-6133554,9/8/2020,Tull,Sprigin,Male,6/26/1993,1,0,,0,0,0,Support,China,Xincheng,10,Unacceptable,Needs Improvement,Pakistani
+13-6724022,3/25/2021,Herculie,Ondrasek,Male,9/16/2000,1,0,,1,0,0,Accounting,United States,Toledo,5,Exceeds Expectations,Meets Expectations,White
+58-8649957,3/23/2019,Templeton,Ternouth,Male,10/3/1987,1,0,,1,0,0,Business Development,China,Yangjingziwan,4,Exceeds Expectations,Unacceptable,Indian
+47-4825710,6/19/2020,Giustino,Halsworth,Male,12/22/1998,1,0,,1,0,0,Services,Portugal,Igreja,8,Exceeds Expectations,Outstanding,Pakistani
+88-6755015,7/19/2021,Pippo,Cutten,Male,3/10/1966,1,0,,1,0,0,Support,China,Xijiao,5,Meets Expectations,Needs Improvement,Bangladeshi
+53-7354233,6/29/2019,Leif,Hannabus,Male,3/17/1961,1,0,,1,0,0,Services,Indonesia,Kalijeruk,3,Outstanding,Needs Improvement,Chinese
+76-6847469,3/25/2019,Alis,Rzehor,Female,7/29/1997,1,0,,0,0,0,Accounting,Indonesia,Kedungharjo,6,Meets Expectations,Needs Improvement,African
+20-0697086,6/27/2022,Keen,Landa,Male,11/23/1967,1,0,,1,0,0,Support,Ireland,Donabate,5,Meets Expectations,Needs Improvement,Caribbean
+62-0501462,10/4/2019,Carola,Beeswing,Female,6/27/1990,1,0,,0,0,0,Legal,Japan,Muroto-misakicho,5,Needs Improvement,Meets Expectations,White
+93-7507575,11/9/2020,Kania,Gregore,Female,1/2/2003,1,0,,0,0,0,Research and Development,France,Alès,9,Outstanding,Needs Improvement,Arab
+37-3334021,4/22/2021,Hillard,Hambatch,Male,2/17/1963,1,0,,1,0,0,Product Management,Russia,Kamyshin,3,Needs Improvement,Needs Improvement,Irish
+66-2613099,1/18/2020,Doloritas,Kline,Female,10/30/1950,1,0,,0,0,0,Services,Indonesia,Cibeunying,2,Meets Expectations,Exceeds Expectations,African
+07-7016926,6/16/2020,Candi,Gong,Polygender,5/30/1980,1,0,,0,0,0,Product Management,North Korea,Sŏnbong,1,Exceeds Expectations,Meets Expectations,Arab
+15-6554272,7/21/2022,Dina,Molen,Female,4/8/1986,1,0,,1,0,0,Sales,Philippines,Buenlag,7,Outstanding,Exceeds Expectations,Indian
+78-1492429,8/14/2022,Heall,Tapson,Male,3/21/1950,1,0,,0,0,0,Research and Development,Lithuania,Skuodas,7,Meets Expectations,Meets Expectations,Bangladeshi
+03-5712295,4/14/2019,Upton,Birrel,Male,2/9/1957,1,0,,0,0,0,Engineering,Portugal,Oliveiras,4,Exceeds Expectations,Exceeds Expectations,African
+86-2421264,5/10/2022,Skyler,Mcasparan,Male,3/17/1991,1,0,,0,0,0,Legal,France,Caen,5,Exceeds Expectations,Outstanding,White
+30-9962522,7/29/2019,Bar,McHan,Male,8/31/1991,1,0,,0,0,0,Sales,France,Caluire-et-Cuire,7,Meets Expectations,Needs Improvement,White 
+11-5139010,4/21/2022,Aubine,Farnie,Female,11/15/1957,1,0,,0,0,0,Business Development,Sweden,Skövde,9,Exceeds Expectations,Exceeds Expectations,White
+01-1850502,11/8/2020,Barbie,Cruddas,Female,11/18/1956,1,0,,1,0,0,Research and Development,Indonesia,Babat,9,Needs Improvement,Outstanding,Chinese
+46-2463957,7/17/2019,Mickey,Milmo,Male,6/18/1980,1,0,,0,0,0,Sales,Canada,Mont-Laurier,1,Exceeds Expectations,Meets Expectations,Pakistani
+05-9432031,9/8/2020,Mitch,Sowden,Male,12/13/1999,1,0,,1,0,0,Sales,Russia,Syntul,6,Needs Improvement,Unacceptable,White
+40-8358616,10/7/2019,Derrick,Camm,Male,7/5/1992,1,0,,1,0,0,Legal,China,Lintingkou,9,Exceeds Expectations,Exceeds Expectations,Indian
+62-6804030,4/5/2020,Elisha,Crumpe,Male,12/2/1981,1,0,,1,0,0,Business Development,Iran,Fareydūnshahr,2,Meets Expectations,Meets Expectations,Pakistani
+36-1433735,11/2/2021,Kimmy,Veighey,Female,8/6/1986,1,1,8/2/2019,0,0,1,Research and Development,Belarus,Slutsk,4,Needs Improvement,Exceeds Expectations,Bangladeshi
+22-6823608,1/30/2020,Brianna,O'Noland,Female,5/6/1995,1,0,,0,0,0,Legal,Kuwait,Al Farwānīyah,5,Exceeds Expectations,Meets Expectations,Chinese
+05-9835419,9/2/2021,Renard,Martel,Non-binary,11/12/1972,1,0,,0,0,0,Engineering,Peru,Caballococha,3,Needs Improvement,Exceeds Expectations,African
+43-0976353,2/28/2019,Ernie,McClounan,Male,10/6/1956,1,1,3/25/2019,0,0,1,Marketing,Indonesia,Sukasari,5,Meets Expectations,Meets Expectations,Caribbean
+47-6965894,11/27/2021,Giuseppe,Denyer,Male,11/17/1960,1,1,6/4/2021,0,0,1,Product Management,Sweden,Skutskär,9,Needs Improvement,Exceeds Expectations,White
+03-1133981,1/4/2020,Glen,Petrushkevich,Male,11/13/1999,1,0,,0,0,0,Services,Russia,Vyazniki,10,Exceeds Expectations,Meets Expectations,Arab
+36-7165504,3/15/2022,Cristal,Augustine,Bigender,3/27/1956,1,0,,0,0,0,Accounting,China,Hongtu,8,Unacceptable,Exceeds Expectations,Irish
+60-4719991,8/28/2020,Merilee,Orbon,Female,5/10/1981,1,0,,0,0,0,Sales,Indonesia,Pasuruan,2,Meets Expectations,Needs Improvement,African
+46-8986635,10/10/2021,Teodoro,Bread,Male,2/2/1962,1,0,,1,0,0,Accounting,Czech Republic,Topolná,7,Outstanding,Meets Expectations,Arab
+80-3618212,9/24/2020,Tisha,Tesauro,Female,8/8/1960,1,0,,1,0,0,Business Development,China,Dartang,5,Meets Expectations,Exceeds Expectations,Indian
+54-2135833,6/25/2019,Irita,Baldocci,Female,9/30/1989,1,0,,0,0,0,Marketing,Philippines,Inicbulan,2,Needs Improvement,Outstanding,Bangladeshi
+29-9587332,4/15/2021,Annaliese,Romer,Female,5/18/1954,1,0,,1,0,0,Research and Development,Mexico,El Cerrito,3,Needs Improvement,Meets Expectations,African
+31-6182822,10/20/2021,Simona,Bortolozzi,Female,1/2/1990,1,0,,0,0,0,Product Management,Indonesia,Pledo,6,Unacceptable,Unacceptable,White
+71-4072222,9/5/2021,Cherianne,Vesty,Female,10/12/1973,1,0,,1,0,0,Legal,Indonesia,Kertasari,7,Exceeds Expectations,Meets Expectations,White 
+89-9579679,11/3/2020,Cass,Siret,Male,11/16/1970,1,0,,1,0,0,Engineering,Russia,Borisovka,4,Unacceptable,Unacceptable,White
+56-4770586,4/22/2019,Cathy,Mayman,Female,1/11/1976,1,0,,0,0,0,Business Development,Palestinian Territory,Al ‘Awjā,7,Needs Improvement,Unacceptable,Chinese
+32-6936960,1/30/2020,Haydon,Lewins,Male,10/9/1959,1,0,,0,0,0,Sales,Ukraine,Lopatyn,2,Outstanding,Outstanding,Pakistani
+41-2675315,4/6/2022,Claudie,Basden,Male,9/4/1987,1,0,,1,0,0,Engineering,Philippines,Tajao,3,Meets Expectations,Meets Expectations,White
+17-6168456,3/25/2021,Amy,Sommerville,Non-binary,8/24/1969,1,0,,0,0,0,Business Development,Portugal,Várzea da Serra,8,Unacceptable,Needs Improvement,Indian
+98-1110339,1/15/2022,Travis,Payley,Male,10/4/1999,1,0,,1,0,0,Marketing,China,Qufu,5,Needs Improvement,Exceeds Expectations,Pakistani
+21-6083499,1/18/2021,Keri,Leggitt,Genderfluid,10/1/2002,1,0,,1,0,0,Engineering,Japan,Gifu-shi,6,Exceeds Expectations,Exceeds Expectations,Bangladeshi
+84-5285627,8/18/2021,Luis,Santorini,Male,12/25/1961,1,1,1/19/2022,0,0,1,Product Management,Indonesia,Cikadu,10,Exceeds Expectations,Meets Expectations,Chinese
+17-9618702,3/21/2020,Torrie,Redwall,Polygender,6/1/1974,1,0,,1,0,0,Research and Development,China,Maofan,7,Needs Improvement,Meets Expectations,African
+43-2993659,11/23/2020,Armstrong,Spinks,Female,10/13/1967,1,1,9/6/2020,0,0,1,Legal,Vietnam,Tân Trụ,4,Needs Improvement,Unacceptable,Caribbean
+82-2978338,7/17/2022,Zeke,Carriage,Female,7/31/1953,1,0,,1,0,0,Legal,Kazakhstan,Burunday,3,Outstanding,Exceeds Expectations,White
+36-6944764,6/6/2022,Melloney,O'Heaney,Female,3/20/1968,1,0,,1,0,0,Human Resources,China,Beihe,8,Needs Improvement,Needs Improvement,Arab
+80-6922086,2/6/2021,Kassandra,Pamplin,Female,5/4/1960,1,0,,0,0,0,Product Management,China,Changfu,9,Unacceptable,Outstanding,Irish
+20-2821629,7/6/2019,Christoper,Zamudio,Male,9/7/1954,1,0,,1,0,0,Training,China,Mali,8,Unacceptable,Outstanding,African
+17-3616879,6/17/2022,Jolyn,Dicke,Female,8/20/1971,1,0,,1,0,0,Accounting,Poland,Zubrzyca Dolna,5,Exceeds Expectations,Outstanding,Arab
+77-0446254,5/13/2021,Whitney,Calow,Agender,7/2/1979,1,0,,1,0,0,Support,Peru,Condoroma,7,Meets Expectations,Outstanding,Indian
+44-3467171,7/21/2019,Murdoch,Crush,Male,12/21/1983,1,0,,0,0,0,Human Resources,Indonesia,Bulubrangsi,4,Unacceptable,Outstanding,Bangladeshi
+64-8992704,4/15/2020,Lanna,De Ferraris,Female,3/31/1957,1,0,,1,0,0,Legal,Philippines,Marantao,10,Needs Improvement,Exceeds Expectations,African
+05-4407482,7/5/2022,Stevena,Speaks,Female,5/1/1981,1,1,1/28/2022,1,1,0,Human Resources,Guatemala,San Andrés Xecul,2,Unacceptable,Exceeds Expectations,White
+33-2200389,1/31/2022,Rica,Cathrae,Female,10/26/1998,1,0,,1,0,0,Services,Dominican Republic,Duvergé,7,Needs Improvement,Outstanding,White 
+26-9645912,9/24/2021,Amory,Burness,Male,11/30/1990,1,0,,1,0,0,Services,Poland,Jabłonica Polska,7,Meets Expectations,Needs Improvement,White
+10-6861234,5/15/2022,Dorine,Mouatt,Female,11/8/1990,1,0,,1,0,0,Human Resources,Russia,Podkamennaya Tunguska,6,Meets Expectations,Meets Expectations,Chinese
+61-2663946,4/21/2020,Dalt,Seeking,Male,8/23/1978,1,1,1/18/2020,0,0,1,Legal,Venezuela,Santa María de Ipire,4,Meets Expectations,Meets Expectations,Pakistani
+47-5527519,7/8/2020,Astra,Toun,Female,8/14/1991,1,0,,0,0,0,Legal,Ukraine,Zhovkva,1,Outstanding,Outstanding,White
+43-4988885,7/4/2019,Laurianne,Jeannin,Female,3/24/1973,1,0,,1,0,0,Training,Belgium,Mons,2,Exceeds Expectations,Needs Improvement,Indian
+34-7804810,7/14/2019,Kaylil,Pettett,Non-binary,2/6/1974,1,0,,1,0,0,Sales,Japan,Komatsushimachō,9,Unacceptable,Meets Expectations,Pakistani
+38-0690081,1/5/2019,Babette,Pottberry,Female,8/15/1959,1,0,,0,0,0,Legal,China,Beigang,1,Unacceptable,Outstanding,Bangladeshi
+17-2249895,12/21/2021,Nataline,Kelwick,Female,11/6/1970,1,0,,0,0,0,Accounting,Netherlands,Hellevoetsluis,10,Meets Expectations,Needs Improvement,Chinese
+62-8616753,7/30/2019,Rebbecca,Dreamer,Female,9/28/1997,1,0,,1,0,0,Legal,Argentina,Maipú,8,Needs Improvement,Exceeds Expectations,African
+61-4288621,10/27/2021,Antonella,Shippard,Female,12/26/1975,1,0,,1,0,0,Sales,North Korea,Kapsan-ŭp,1,Outstanding,Meets Expectations,Caribbean
+18-2794535,7/10/2021,Erna,Borrows,Female,12/9/1989,1,0,,0,0,0,Sales,Russia,Kirovsk,9,Needs Improvement,Unacceptable,White
+37-1209876,7/5/2021,Erina,Greensides,Female,4/7/1966,1,0,,1,0,0,Product Management,Argentina,Nueve de Julio,8,Needs Improvement,Meets Expectations,Arab
+92-1354378,2/22/2021,Isidora,Kilsby,Female,7/3/1973,1,0,,1,0,0,Engineering,Sweden,Åby,8,Meets Expectations,Meets Expectations,Irish
+12-1038611,11/3/2020,Melisenda,Kippling,Female,9/6/1966,1,0,,0,0,0,Research and Development,Brazil,Vila Velha,7,Exceeds Expectations,Meets Expectations,African
+53-7936201,9/9/2019,Hilarius,Bellefant,Male,3/29/1957,1,0,,0,0,0,Training,Costa Rica,Ipís,2,Exceeds Expectations,Outstanding,Arab
+20-7706952,4/8/2021,Cosmo,Shillington,Male,6/25/2002,1,0,,0,0,0,Research and Development,Palestinian Territory,Kafr ad Dīk,8,Outstanding,Unacceptable,Indian
+83-3063525,8/20/2020,Lyssa,Mitchely,Female,5/30/1968,1,1,12/22/2021,0,1,0,Training,Poland,Kamieniec,10,Exceeds Expectations,Needs Improvement,Bangladeshi
+10-8806835,3/31/2020,Gizela,Gullifant,Female,6/20/1999,1,0,,1,0,0,Training,China,Shuangwang,7,Exceeds Expectations,Meets Expectations,African
+59-5979365,6/9/2022,Bill,Tortice,Male,10/22/1985,1,0,,0,0,0,Human Resources,Portugal,Silvares,5,Outstanding,Exceeds Expectations,White
+43-8673954,7/28/2019,Jeremy,Burniston,Male,7/11/1994,1,0,,1,0,0,Human Resources,Poland,Krzczonów,7,Outstanding,Unacceptable,White 
+65-8970773,11/23/2019,Storm,Deverale,Female,6/29/1973,1,0,,0,0,0,Accounting,China,Hengli,6,Meets Expectations,Needs Improvement,White
+73-9801687,8/2/2019,Arleyne,Elsop,Female,10/26/2000,1,0,,0,0,0,Research and Development,China,Jingpeng,4,Outstanding,Unacceptable,Chinese
+75-8125567,11/28/2019,Antoni,Agglio,Male,7/25/1983,1,1,1/4/2021,1,0,1,Business Development,Armenia,Sarukhan,1,Unacceptable,Unacceptable,Pakistani
+91-3212180,3/11/2020,Betsey,Gristhwaite,Female,3/17/1961,1,1,3/13/2020,0,0,1,Research and Development,Mongolia,Tsagaan-Olom,10,Exceeds Expectations,Outstanding,White
+93-4785326,12/16/2020,Roma,McGiff,Male,12/22/1973,1,0,,0,0,0,Accounting,China,Nanyang,7,Outstanding,Meets Expectations,Indian
+74-3297891,9/10/2021,Fairleigh,Manoch,Male,12/13/1987,1,0,,0,0,0,Marketing,Albania,Krutja e Poshtme,4,Exceeds Expectations,Needs Improvement,Pakistani
+84-6738503,8/24/2020,Guthry,Chattock,Male,5/17/1974,1,0,,1,0,0,Engineering,China,Shangdu,1,Exceeds Expectations,Exceeds Expectations,Bangladeshi
+89-0658944,11/13/2021,Stephi,Pepperd,Bigender,10/13/1974,1,0,,0,0,0,Engineering,Argentina,General José de San Martín,3,Unacceptable,Meets Expectations,Chinese
+38-6821999,9/17/2019,Eleni,Strangman,Female,4/20/1950,1,0,,1,0,0,Accounting,China,Shanshu,3,Needs Improvement,Exceeds Expectations,African
+08-4906698,9/12/2022,Bernadene,Archley,Female,12/27/1967,1,0,,0,0,0,Sales,Croatia,Njivice,9,Unacceptable,Exceeds Expectations,Caribbean
+24-7726493,12/24/2021,Maudie,Tackes,Female,2/12/1970,1,0,,0,0,0,Legal,China,Xihuaiba,6,Exceeds Expectations,Unacceptable,White
+31-8713734,2/16/2022,Gabriel,Challice,Male,1/15/1971,1,0,,0,0,0,Support,Nigeria,Toungo,6,Meets Expectations,Exceeds Expectations,Arab
+33-4206857,4/24/2020,Rossie,Bannard,Male,8/9/1972,1,0,,0,0,0,Legal,China,Tangping,4,Meets Expectations,Exceeds Expectations,Irish
+45-4738662,9/25/2019,Renae,Danjoie,Bigender,11/20/1999,1,0,,1,0,0,Product Management,Russia,Ivanovo,5,Outstanding,Meets Expectations,African
+75-3369374,5/2/2021,Parsifal,Eckersley,Male,12/21/1999,1,0,,1,0,0,Business Development,Chad,Bokoro,2,Meets Expectations,Unacceptable,Arab
+73-0090622,12/10/2020,Chaunce,Hugo,Male,1/11/1973,1,1,3/5/2020,0,1,0,Services,Canada,Notre-Dame-des-Prairies,5,Unacceptable,Outstanding,Indian
+90-8911998,5/13/2022,Windham,Dore,Genderfluid,10/22/1957,1,0,,0,0,0,Support,Greece,Vlycháda,2,Unacceptable,Meets Expectations,Bangladeshi
+30-5089372,5/25/2022,Cam,Pree,Male,3/10/1987,1,0,,0,0,0,Engineering,China,Yangshufang,3,Exceeds Expectations,Meets Expectations,African
+47-9853367,8/16/2021,Morrie,Gatheridge,Female,9/19/1980,1,0,,1,0,0,Legal,Venezuela,Aricagua,3,Unacceptable,Meets Expectations,White
+48-4417056,3/10/2019,Merci,Bessell,Female,9/14/1982,1,1,1/14/2021,1,1,0,Research and Development,Canada,Ottawa,9,Outstanding,Unacceptable,White 
+71-9437505,6/22/2019,Miles,McSherry,Male,2/12/1957,1,0,,0,0,0,Sales,Zimbabwe,Mazowe,5,Exceeds Expectations,Unacceptable,White
+08-0366238,4/19/2019,Shepard,Edgworth,Male,5/12/1999,1,1,6/8/2019,0,0,1,Support,China,Kunyang,10,Needs Improvement,Unacceptable,Chinese
+88-4809981,3/30/2020,Ty,De la Yglesias,Male,3/2/1969,1,1,9/13/2019,0,1,0,Support,China,Minle,8,Exceeds Expectations,Needs Improvement,Pakistani
+62-8593205,10/30/2020,Ravi,Doiley,Agender,11/1/1996,1,0,,0,0,0,Support,Mongolia,Bürenhayrhan,8,Meets Expectations,Meets Expectations,White
+37-5502309,2/14/2020,Christye,Colerick,Female,1/20/1991,1,0,,0,0,0,Business Development,Sweden,Ellös,10,Needs Improvement,Needs Improvement,Indian
+25-7013873,12/9/2019,Dacy,Cloney,Agender,4/28/1951,1,0,,1,0,0,Services,Brazil,Itanhaém,8,Meets Expectations,Unacceptable,Pakistani
+00-7652756,12/12/2020,Anabal,McAnulty,Female,8/12/1952,1,0,,0,0,0,Business Development,Uganda,Sembabule,3,Meets Expectations,Exceeds Expectations,Bangladeshi
+17-6661697,8/8/2022,Ethelda,MacPeice,Female,1/8/2002,1,0,,1,0,0,Marketing,Russia,Ishkhoy-Yurt,6,Meets Expectations,Meets Expectations,Chinese
+39-7428847,5/23/2019,Bertine,Jeffcock,Female,3/30/1995,1,0,,0,0,0,Marketing,Ukraine,Kyrylivka,8,Outstanding,Meets Expectations,African
+29-2482855,2/16/2021,Lavinie,Slade,Female,11/10/1972,1,0,,1,0,0,Services,China,Dailing,8,Exceeds Expectations,Needs Improvement,Caribbean
+74-3319610,1/22/2020,Billye,Batteson,Female,10/6/1992,1,0,,0,0,0,Legal,Indonesia,Kotes,8,Meets Expectations,Needs Improvement,White
+98-2196224,6/18/2021,Micah,Tierney,Genderfluid,7/12/1978,1,0,,0,0,0,Support,Ukraine,Saky,5,Needs Improvement,Needs Improvement,Arab
+35-9758924,8/4/2021,Brantley,Allardyce,Male,8/15/1992,1,0,,0,0,0,Marketing,China,Changfu,7,Outstanding,Exceeds Expectations,Irish
+52-9638496,9/26/2019,Micah,Caunter,Male,3/22/1966,1,0,,1,0,0,Human Resources,France,Sainte-Geneviève-des-Bois,4,Meets Expectations,Meets Expectations,African
+04-1831187,12/2/2021,Sylvester,Gemmill,Male,8/12/1993,1,0,,0,0,0,Human Resources,Colombia,Armenia,10,Unacceptable,Meets Expectations,Arab
+32-0627220,1/1/2021,Olwen,Swaisland,Female,8/25/1989,1,0,,0,0,0,Legal,China,Kouzhen,3,Meets Expectations,Exceeds Expectations,Indian
+54-5405248,2/27/2021,Cindi,Vernalls,Female,2/13/1985,1,0,,0,0,0,Marketing,Dominican Republic,Hostos,8,Meets Expectations,Meets Expectations,Bangladeshi
+15-1662004,5/8/2022,Dollie,Ferro,Female,8/1/1980,1,0,,1,0,0,Engineering,China,Kuantian,10,Needs Improvement,Meets Expectations,African
+05-5496223,7/11/2022,Trueman,Judgkins,Male,9/22/1989,1,0,,0,0,0,Training,China,Taoyuan,7,Unacceptable,Exceeds Expectations,White
+21-1707849,7/17/2019,Rina,Christon,Female,12/19/1950,1,0,,1,0,0,Business Development,Mexico,Buenavista,3,Needs Improvement,Outstanding,White 
+46-4176043,11/27/2020,Mandel,Webb-Bowen,Female,4/21/1996,1,0,,1,0,0,Legal,Malaysia,Kuala Lumpur,7,Unacceptable,Needs Improvement,White
+29-7461538,12/13/2020,Nichols,Colbert,Male,1/15/1961,1,0,,0,0,0,Engineering,Russia,Krasnyye Chetai,9,Unacceptable,Meets Expectations,Chinese
+98-2718300,5/1/2020,Leodora,Gheeraert,Female,8/10/1961,1,0,,0,0,0,Sales,China,Wan’an,3,Needs Improvement,Exceeds Expectations,Pakistani
+91-2023297,10/15/2021,Mikey,Brumen,Male,6/14/1987,1,0,,1,0,0,Sales,Colombia,Ciénaga de Oro,10,Outstanding,Exceeds Expectations,White
+21-8252926,1/27/2021,Kalindi,Hampe,Female,9/12/1954,1,0,,1,0,0,Marketing,Ireland,Gort,1,Needs Improvement,Outstanding,Indian
+15-0071089,3/26/2019,Alikee,Lestrange,Female,3/14/1970,1,0,,1,0,0,Sales,Ireland,Templeogue,5,Unacceptable,Unacceptable,Pakistani
+29-1145619,7/8/2020,Bink,Hammerberger,Male,3/15/1958,1,0,,1,0,0,Research and Development,China,Wanling,6,Needs Improvement,Needs Improvement,Bangladeshi
+39-2035786,10/29/2021,Aldrich,Roke,Genderfluid,2/11/1976,1,0,,0,0,0,Business Development,Nigeria,Wamba,9,Exceeds Expectations,Exceeds Expectations,Chinese
+08-0713210,3/21/2020,Powell,Pritty,Male,6/29/1973,1,0,,1,0,0,Human Resources,Gambia,No Kunda,6,Outstanding,Meets Expectations,African
+30-7465947,5/6/2019,Cilka,Cardillo,Female,5/22/1953,1,0,,0,0,0,Marketing,Brazil,Santo Amaro da Imperatriz,7,Unacceptable,Outstanding,Caribbean
+29-5868466,10/4/2019,Aron,Chelsom,Polygender,1/20/1972,1,1,8/28/2021,0,1,0,Sales,China,Chaoyang,10,Needs Improvement,Outstanding,White
+95-6567127,3/21/2019,Roland,Skamell,Male,10/1/1970,1,0,,0,0,0,Business Development,China,Yangshufang,6,Exceeds Expectations,Outstanding,Arab
+37-3638704,11/14/2021,Kerianne,McFarlane,Female,9/8/1980,1,1,10/12/2020,0,0,1,Marketing,Indonesia,Penggakrajeng,5,Outstanding,Outstanding,Irish
+51-1108618,10/25/2019,Silvana,De la Yglesia,Female,9/16/1994,1,0,,0,0,0,Sales,Indonesia,Tengger,4,Needs Improvement,Outstanding,African
+36-1849279,11/22/2019,Shanan,Bernardi,Male,1/18/1988,1,0,,0,0,0,Accounting,Pakistan,Bhopālwāla,10,Outstanding,Unacceptable,Arab
+11-8950766,7/12/2020,Paton,Greenshields,Male,6/27/1965,1,0,,0,0,0,Accounting,Afghanistan,Cool űrhajó,7,Exceeds Expectations,Unacceptable,Indian
+97-0336723,5/24/2020,Tani,Klimus,Female,5/20/1990,1,0,,0,0,0,Legal,China,Huyunxiang,10,Exceeds Expectations,Needs Improvement,Bangladeshi
+74-7019259,6/2/2021,Clayborn,Mailes,Male,8/22/1960,1,0,,0,0,0,Support,France,Limoges,8,Unacceptable,Meets Expectations,African
+92-8225523,9/13/2022,Kara-lynn,Pristnor,Female,1/19/1989,1,0,,0,0,0,Product Management,Sweden,Osby,7,Meets Expectations,Needs Improvement,White
+34-0084633,6/29/2022,Magnum,Philipart,Male,6/2/1973,1,0,,1,0,0,Services,Poland,Rybarzowice,2,Meets Expectations,Meets Expectations,White 
+03-2791772,1/13/2020,Zak,Whitwell,Male,12/24/1968,1,1,12/8/2022,1,0,1,Services,Madagascar,Antalaha,1,Needs Improvement,Unacceptable,White
+13-1184384,9/10/2021,Morgan,Varndell,Male,9/24/1973,1,0,,1,0,0,Product Management,Spain,Sant Cugat Del Valles,8,Exceeds Expectations,Unacceptable,Chinese
+79-4584821,9/30/2021,Nels,Byrnes,Male,6/2/1966,1,0,,0,0,0,Legal,Norway,Oslo,1,Meets Expectations,Needs Improvement,Pakistani
+70-3510850,10/17/2021,Pinchas,Burd,Male,9/14/1952,1,0,,0,0,0,Business Development,Indonesia,Lengor,8,Unacceptable,Needs Improvement,White
+82-5604458,5/9/2022,Ardella,Swanger,Genderqueer,12/14/1974,1,0,,1,0,0,Accounting,Poland,Kup,1,Meets Expectations,Exceeds Expectations,Chinese
+08-6316691,11/27/2019,Franciskus,O'Callaghan,Male,2/22/1979,1,0,,1,0,0,Legal,Sweden,Karlskrona,2,Exceeds Expectations,Needs Improvement,Pakistani
+96-0858838,12/28/2020,Stephana,Edgler,Female,8/5/1963,1,0,,0,0,0,Legal,Ukraine,Kuchurhan,10,Outstanding,Meets Expectations,White
+52-4369071,10/26/2019,Ward,Bodocs,Male,12/15/1995,1,0,,0,0,0,Human Resources,Nicaragua,San Juan de Limay,8,Exceeds Expectations,Exceeds Expectations,Indian
+92-7399655,8/27/2019,Mitchell,Douche,Genderfluid,5/21/1951,1,0,,1,0,0,Services,China,Xinghe Chengguanzhen,7,Unacceptable,Meets Expectations,Pakistani
+39-7466560,3/9/2022,Flem,Pantecost,Male,5/29/1977,1,0,,1,0,0,Business Development,China,Jinhui,9,Unacceptable,Outstanding,Bangladeshi
+92-4202551,5/6/2020,Arron,Aven,Male,12/16/1992,1,0,,1,0,0,Research and Development,Philippines,Pandakan,3,Exceeds Expectations,Outstanding,Chinese
+03-2757154,12/7/2020,Rasla,Ludlom,Female,9/21/1994,1,0,,1,0,0,Engineering,China,Ezhou,2,Meets Expectations,Needs Improvement,African
+05-7764402,9/15/2021,Vernon,Bissex,Male,2/11/1959,1,0,,0,0,0,Research and Development,Portugal,Póvoa,8,Meets Expectations,Needs Improvement,Caribbean
+44-4068203,9/17/2021,Gerri,Tomczynski,Female,8/14/1961,1,0,,0,0,0,Accounting,Mexico,Loma Bonita,10,Meets Expectations,Exceeds Expectations,White
+45-1512396,4/15/2020,Stan,Darlow,Male,11/30/1961,1,0,,0,0,0,Accounting,Tanzania,Usevia,10,Outstanding,Meets Expectations,Arab
+20-2903470,6/26/2022,Rora,Oxton,Female,6/23/1979,1,0,,0,0,0,Accounting,Namibia,Omaruru,1,Unacceptable,Needs Improvement,Irish
+09-4799048,3/16/2020,Loreen,Vowell,Female,9/5/1988,1,0,,1,0,0,Services,New Zealand,Waitangi,5,Meets Expectations,Meets Expectations,African
+57-0745536,11/26/2020,Pennie,Croutear,Female,12/24/1959,1,0,,0,0,0,Legal,Russia,Demyansk,3,Exceeds Expectations,Needs Improvement,Arab
+21-6019937,5/11/2021,Germaine,Van Schafflaer,Male,9/26/1955,1,0,,0,0,0,Engineering,Greece,Perivóli,4,Outstanding,Exceeds Expectations,Indian
+68-8460698,11/2/2020,Hilary,Stracey,Female,9/9/1977,1,0,,1,0,0,Engineering,Portugal,Gondomar,6,Exceeds Expectations,Exceeds Expectations,Bangladeshi
+80-0666259,9/9/2020,Reiko,Du Plantier,Female,9/11/1955,1,0,,0,0,0,Training,Indonesia,Cipatujah,2,Exceeds Expectations,Exceeds Expectations,African
+94-8849463,12/18/2019,Micah,Worg,Male,4/7/1967,1,0,,0,0,0,Sales,China,Ditang,8,Exceeds Expectations,Meets Expectations,White
+56-2701822,4/14/2022,Randell,Cahen,Male,12/10/1992,1,0,,0,0,0,Human Resources,China,Zhongcheng,5,Outstanding,Unacceptable,White 
+60-4866524,11/30/2020,Corry,Gillespey,Genderqueer,2/5/1978,1,0,,0,0,0,Business Development,Serbia,Klenak,6,Outstanding,Meets Expectations,White
+95-1618787,4/24/2020,Pegeen,McGirl,Polygender,9/26/1980,1,0,,1,0,0,Business Development,Peru,Rosaspata,1,Exceeds Expectations,Meets Expectations,Chinese
+69-6258912,9/13/2020,Benni,Trousdale,Genderfluid,9/10/1978,1,0,,0,0,0,Business Development,Sweden,Boden,8,Outstanding,Exceeds Expectations,Pakistani
+11-1326118,11/20/2020,Flory,Ondricek,Male,3/24/1959,1,0,,1,0,0,Sales,Malaysia,Kuching,4,Needs Improvement,Meets Expectations,White
+30-6560729,6/6/2019,Moyna,Genever,Female,5/11/2000,1,0,,1,0,0,Marketing,Indonesia,Banyuresmi,6,Unacceptable,Outstanding,Indian
+54-5897118,8/30/2021,Freemon,Willmot,Male,6/26/1971,1,0,,0,0,0,Sales,Russia,Koksovyy,10,Exceeds Expectations,Exceeds Expectations,Pakistani
+83-6116697,7/1/2022,Rolph,Buddle,Male,2/22/1995,1,0,,1,0,0,Services,Somalia,Oodweyne,9,Meets Expectations,Unacceptable,Bangladeshi
+66-5813290,4/9/2022,Storm,Winsley,Polygender,1/16/1965,1,0,,0,0,0,Training,Zambia,Monze,6,Outstanding,Unacceptable,Chinese
+25-0878440,12/20/2020,Heda,Webling,Female,11/28/1989,1,0,,1,0,0,Training,Brazil,Chã Grande,10,Meets Expectations,Needs Improvement,African
+81-8857034,9/25/2022,Brandon,Mateos,Genderfluid,11/14/1981,1,0,,1,0,0,Marketing,South Africa,Tembisa,2,Needs Improvement,Meets Expectations,Caribbean
+27-0352852,7/25/2019,Harold,Kliemke,Male,10/10/1994,1,0,,0,0,0,Support,Morocco,Arazane,4,Unacceptable,Outstanding,White
+63-4193617,11/18/2021,Kirk,Hemstead,Male,1/20/1953,1,1,8/20/2021,1,0,1,Sales,Mexico,Buenos Aires,7,Meets Expectations,Exceeds Expectations,Arab
+17-5702130,1/16/2021,Godfree,Tinker,Male,7/17/1990,1,0,,0,0,0,Support,Russia,Sergach,4,Needs Improvement,Meets Expectations,Irish
+13-7160649,8/13/2022,Jessalyn,Northill,Female,7/31/1969,1,0,,0,0,0,Research and Development,Philippines,Jabonga,6,Unacceptable,Needs Improvement,African
+56-5803872,3/14/2019,Jarrod,Klimochkin,Male,9/3/2001,1,0,,0,0,0,Research and Development,China,Guandiping,10,Meets Expectations,Meets Expectations,Arab
+17-7598225,8/30/2022,Trent,Olsen,Male,4/26/1966,1,0,,1,0,0,Training,China,Huazhou,3,Needs Improvement,Exceeds Expectations,Indian
+32-7367326,2/17/2021,Micky,Meates,Male,12/31/1998,1,0,,1,0,0,Research and Development,Indonesia,Cilangla,3,Unacceptable,Unacceptable,Bangladeshi
+21-7822939,8/4/2021,Jen,Baiyle,Non-binary,7/2/1991,1,0,,0,0,0,Engineering,Portugal,Cochadas,7,Meets Expectations,Unacceptable,African
+56-4820876,1/18/2019,Sonnnie,Kinkaid,Female,1/10/1980,1,0,,0,0,0,Services,Honduras,Las Trojes,5,Exceeds Expectations,Needs Improvement,White
+31-6086739,1/16/2021,Erek,Kendrick,Non-binary,10/5/1957,1,0,,0,0,0,Business Development,Cameroon,Douala,10,Outstanding,Needs Improvement,White 
+12-8585057,6/4/2019,Germaine,Matyasik,Non-binary,2/9/1961,1,0,,0,0,0,Business Development,Argentina,Doblas,6,Meets Expectations,Meets Expectations,White
+23-9049339,9/14/2020,Donnie,Smith,Agender,1/14/1973,1,0,,0,0,0,Support,Argentina,Pasco,8,Needs Improvement,Exceeds Expectations,Chinese
+46-5994307,8/17/2019,Willetta,Flockhart,Female,1/20/1999,1,0,,1,0,0,Legal,Poland,Kętrzyn,3,Outstanding,Meets Expectations,Pakistani
+89-0149357,5/28/2019,Derrik,Oxbrow,Male,3/7/1951,1,0,,1,0,0,Sales,Canada,Québec,3,Exceeds Expectations,Unacceptable,White
+61-0646604,3/9/2022,Ervin,Burgin,Male,2/2/1963,1,0,,1,0,0,Human Resources,China,Xingzi,9,Outstanding,Needs Improvement,Indian
+26-0476916,1/15/2021,Kalie,Colleton,Female,8/26/1979,1,0,,0,0,0,Legal,Sweden,Eskilstuna,7,Exceeds Expectations,Exceeds Expectations,Pakistani
+17-4067295,9/17/2021,Axel,Bedingfield,Male,5/4/1983,1,0,,1,0,0,Research and Development,Japan,Shimokizukuri,9,Outstanding,Exceeds Expectations,Bangladeshi
+97-7133092,4/22/2022,Geraldine,Cambling,Female,6/6/1972,1,0,,1,0,0,Training,Greece,Portariá,6,Unacceptable,Exceeds Expectations,Chinese
+70-7520551,4/27/2022,Roldan,Whitnell,Male,9/9/1956,1,0,,0,0,0,Training,Sweden,Lycksele,5,Unacceptable,Outstanding,African
+22-8772969,10/6/2021,Annora,Le Sieur,Female,8/26/1974,1,1,5/7/2021,1,1,0,Support,Peru,Huata,3,Exceeds Expectations,Meets Expectations,Caribbean
+98-0916949,4/26/2021,Brandi,Schieferstein,Female,8/4/1965,1,0,,1,0,0,Product Management,Qatar,Al Jumaylīyah,10,Needs Improvement,Meets Expectations,White
+31-3085812,7/24/2021,Danella,Bourhill,Female,10/26/1987,1,0,,1,0,0,Human Resources,Indonesia,Srabah,9,Meets Expectations,Needs Improvement,Arab
+84-9250966,8/4/2020,Auberon,Fausch,Male,1/21/1975,1,0,,0,0,0,Training,Nicaragua,Nandasmo,6,Needs Improvement,Needs Improvement,Irish
+69-4036920,1/16/2020,Millard,Mahomet,Male,4/7/1958,1,0,,1,0,0,Engineering,Vietnam,Cẩm Phả Mines,3,Outstanding,Outstanding,African
+17-7224067,1/19/2019,Melita,Grainger,Female,11/21/1989,1,0,,0,0,0,Legal,China,Canghou,4,Unacceptable,Needs Improvement,Arab
+50-7254969,3/3/2021,Shay,Licciardi,Male,10/12/1955,1,1,4/14/2020,1,0,1,Business Development,Poland,Leśna Podlaska,9,Meets Expectations,Exceeds Expectations,Indian
+40-0148824,5/14/2022,Christen,Quinby,Female,7/20/1977,1,0,,1,0,0,Product Management,Argentina,Barranqueras,6,Meets Expectations,Outstanding,Bangladeshi
+01-5538358,1/31/2021,Sandor,McFaell,Male,3/13/1974,1,0,,0,0,0,Training,Russia,Sokolovyy,10,Exceeds Expectations,Meets Expectations,African
+49-3606271,6/28/2020,Pooh,Hatherley,Female,6/4/1957,1,0,,0,0,0,Engineering,Indonesia,Brengkok,8,Needs Improvement,Needs Improvement,White
+66-4551984,7/27/2021,Gwenni,Ducker,Genderfluid,7/12/1952,1,0,,0,0,0,Accounting,Myanmar,Pyu,6,Exceeds Expectations,Meets Expectations,White 
+54-4121828,9/30/2021,Paulette,Milkeham,Female,4/14/1975,1,0,,0,0,0,Business Development,Tanzania,Kidatu,9,Exceeds Expectations,Needs Improvement,White
+66-8441848,11/20/2019,Arlee,Castanares,Genderfluid,12/11/1992,1,0,,1,0,0,Engineering,Hungary,Békéscsaba,8,Needs Improvement,Needs Improvement,Chinese
+37-9505703,2/12/2019,Ax,Leaves,Male,7/27/1995,1,0,,1,0,0,Product Management,Philippines,Basing,2,Unacceptable,Needs Improvement,Pakistani
+78-0182414,5/3/2021,Velma,Glanister,Female,6/29/2001,1,0,,1,0,0,Engineering,Greece,Livádion,8,Outstanding,Unacceptable,White
+94-6466660,7/26/2021,Gary,Leek,Male,3/19/1993,1,0,,0,0,0,Support,China,Caofang,7,Outstanding,Needs Improvement,Indian
+82-1702257,3/14/2020,Conney,Epton,Male,1/1/1999,1,1,5/24/2022,1,0,1,Marketing,Iran,Nowshahr,9,Unacceptable,Needs Improvement,Pakistani
+01-2885027,11/13/2021,Ossie,Stryde,Male,7/29/1982,1,0,,0,0,0,Support,United States,Fullerton,10,Needs Improvement,Exceeds Expectations,Bangladeshi
+34-4873033,6/22/2022,Roi,Ourtic,Male,9/8/1986,1,0,,0,0,0,Training,Japan,Ginowan,5,Outstanding,Needs Improvement,Chinese
+04-3930112,7/12/2020,Sylas,Phair,Male,3/22/1969,1,0,,0,0,0,Legal,Portugal,Ameixoeira,3,Meets Expectations,Outstanding,African
+17-9614520,5/12/2020,Milton,Eiler,Male,6/6/1986,1,0,,1,0,0,Support,Ukraine,Terpinnya,3,Unacceptable,Meets Expectations,Caribbean
+55-5190009,3/3/2019,Burke,Icom,Male,6/2/1989,1,0,,1,0,0,Marketing,China,Minji,6,Needs Improvement,Unacceptable,White
+43-2425736,3/10/2020,Agnese,Copcote,Female,6/28/1961,1,0,,0,0,0,Human Resources,Iran,Shiraz,10,Needs Improvement,Exceeds Expectations,Arab
+94-8507764,1/25/2022,Maurise,Wardhaugh,Male,8/11/2000,1,0,,1,0,0,Support,Brazil,Imbituba,3,Exceeds Expectations,Meets Expectations,Irish
+21-6996279,1/19/2022,Mathian,MacFall,Male,8/6/1982,1,0,,1,0,0,Accounting,Malaysia,Kuala Lumpur,2,Unacceptable,Outstanding,African
+92-4347398,7/7/2022,Shantee,Gaffey,Female,3/4/1958,1,0,,0,0,0,Training,Peru,Yuracyacu,4,Unacceptable,Outstanding,Arab
+44-7527520,1/6/2019,Lindsey,Pickavance,Female,5/8/1995,1,0,,1,0,0,Support,Argentina,Capayán,7,Needs Improvement,Exceeds Expectations,Indian
+38-5177490,11/25/2021,Miguela,Lortzing,Female,9/29/1977,1,0,,1,0,0,Business Development,Ghana,Kasoa,2,Outstanding,Outstanding,Bangladeshi
+18-4220380,11/2/2021,Westley,Russen,Male,5/4/1972,1,0,,0,0,0,Research and Development,China,Xukou,6,Exceeds Expectations,Unacceptable,African
+97-1742753,10/4/2019,Loy,Bane,Male,7/8/1962,1,0,,0,0,0,Sales,China,Lindian,3,Unacceptable,Exceeds Expectations,White
+18-2954670,9/24/2020,Far,O'Hear,Male,7/1/1988,1,0,,0,0,0,Research and Development,Philippines,Lumbac,7,Outstanding,Needs Improvement,White 
+96-1979874,10/25/2021,Wallie,Dorracott,Male,11/18/1965,1,0,,0,0,0,Accounting,France,Toulouse,8,Outstanding,Meets Expectations,White
+49-2514485,3/14/2021,Sascha,Serfati,Genderfluid,2/16/1957,1,0,,0,0,0,Engineering,Japan,Minamata,5,Exceeds Expectations,Outstanding,Chinese
+18-7870399,3/1/2021,Lucina,Vickerman,Female,5/25/1973,1,0,,0,0,0,Legal,Burkina Faso,Fada N'gourma,6,Outstanding,Meets Expectations,Pakistani
+05-2468721,8/4/2021,Benson,Kimblen,Male,10/25/1969,1,0,,0,0,0,Services,Indonesia,Bantarmangu,10,Meets Expectations,Outstanding,White
+65-5879597,6/29/2022,Fritz,Crambie,Male,7/15/1979,1,0,,1,0,0,Accounting,Mongolia,Bulgan,7,Needs Improvement,Meets Expectations,Indian
+89-8390948,1/31/2022,Arthur,Surgenor,Male,12/27/1992,1,0,,1,0,0,Services,Afghanistan,Khinjān,7,Meets Expectations,Meets Expectations,Pakistani
+08-1806450,1/18/2019,Denny,Rebichon,Male,1/13/2000,1,0,,0,0,0,Accounting,Colombia,San Juan del Cesar,9,Exceeds Expectations,Unacceptable,Bangladeshi
+86-0353643,8/18/2022,Elvera,Stygall,Female,7/1/1977,1,0,,1,0,0,Services,Ukraine,Horokhiv,4,Exceeds Expectations,Outstanding,Chinese
+49-0790629,9/4/2020,Brose,Domniney,Male,3/4/1969,1,0,,0,0,0,Accounting,Brazil,João Pessoa,2,Outstanding,Unacceptable,African
+41-5585912,1/3/2022,Ileana,Shailer,Female,5/19/1987,1,0,,0,0,0,Support,China,Zhichu,6,Outstanding,Exceeds Expectations,Caribbean
+33-9948453,12/21/2020,Trescha,Szymanski,Female,12/11/1985,1,0,,0,0,0,Sales,Indonesia,Ngondokandawu,1,Meets Expectations,Needs Improvement,White
+30-7529668,8/29/2019,Carolus,Signore,Male,11/26/2001,1,0,,1,0,0,Services,Thailand,Uthai Thani,1,Outstanding,Outstanding,Arab
+90-0268214,6/20/2022,Jobi,Fassmann,Female,4/30/1968,1,0,,1,0,0,Sales,Poland,Dąbie,4,Unacceptable,Exceeds Expectations,Irish
+62-7109300,6/28/2022,Celestyn,Beminster,Female,7/8/1989,1,0,,0,0,0,Services,France,Saint-Quentin-en-Yvelines,10,Outstanding,Needs Improvement,African
+29-5516555,12/25/2019,Ardenia,Cheetham,Female,7/19/1982,1,0,,0,0,0,Marketing,China,Mianhu,5,Needs Improvement,Outstanding,Arab
+64-7633546,4/8/2020,Reginauld,Van Daalen,Male,1/31/1990,1,0,,0,0,0,Human Resources,China,Shaxi,10,Meets Expectations,Meets Expectations,Indian
+33-3031153,2/18/2021,Kaela,Bloor,Female,4/14/1951,1,0,,1,0,0,Legal,Indonesia,Sarulla,9,Meets Expectations,Outstanding,Bangladeshi
+89-1137354,6/9/2021,Forest,Littley,Male,9/13/1957,1,0,,0,0,0,Services,Namibia,Omaruru,3,Needs Improvement,Needs Improvement,African
+20-8544703,4/11/2020,Zackariah,Kittow,Male,6/17/1994,1,0,,0,0,0,Legal,Brazil,Rio Piracicaba,10,Exceeds Expectations,Unacceptable,White
+17-6443425,3/6/2020,Tabatha,Gain,Female,4/24/1981,1,0,,1,0,0,Business Development,Cameroon,Fundong,1,Outstanding,Exceeds Expectations,White 
+88-2355004,5/4/2022,Fanechka,Renihan,Female,8/30/1967,1,0,,0,0,0,Research and Development,China,Heping,6,Needs Improvement,Outstanding,White
+40-6880747,9/12/2022,Avivah,Vautrey,Female,3/2/1973,1,1,9/25/2020,0,0,1,Training,Russia,Zheleznogorsk,10,Outstanding,Outstanding,Chinese
+66-5653639,12/31/2020,Levi,Pomphrett,Male,5/30/1964,1,1,4/11/2021,1,0,1,Human Resources,China,Nanpu,4,Unacceptable,Exceeds Expectations,Pakistani
+17-3211613,1/13/2020,Koren,Tiner,Female,11/4/1995,1,0,,1,0,0,Training,Indonesia,Tegalheras,7,Outstanding,Exceeds Expectations,White
+57-3911957,10/25/2020,Lorine,Kernoghan,Female,5/5/1990,1,0,,1,0,0,Legal,China,Fu’an,3,Unacceptable,Exceeds Expectations,Indian
+00-4538538,3/2/2021,Jayson,Kubis,Polygender,7/27/1992,1,1,2/25/2022,0,1,0,Business Development,China,Gaoshi,2,Meets Expectations,Exceeds Expectations,Pakistani
+78-8480379,1/12/2021,Sherlocke,Veschi,Male,1/22/1956,1,0,,0,0,0,Marketing,France,Tourcoing,9,Outstanding,Needs Improvement,Bangladeshi
+85-0666175,4/2/2021,Bryce,Candish,Male,3/23/1956,1,0,,0,0,0,Sales,China,Dazhigu,4,Needs Improvement,Outstanding,Chinese
+81-0989608,9/25/2020,Frayda,Janton,Female,11/4/1998,1,0,,1,0,0,Engineering,Russia,Tyumen,8,Exceeds Expectations,Exceeds Expectations,African
+54-7315414,10/30/2019,Valene,Panchen,Female,1/6/1957,1,0,,1,0,0,Accounting,Venezuela,Jacura,7,Outstanding,Meets Expectations,Caribbean
+74-4131582,11/25/2020,Kelwin,Robke,Male,1/11/1991,1,0,,1,0,0,Accounting,Colombia,Risaralda,2,Meets Expectations,Meets Expectations,White
+04-3861730,12/9/2020,Montague,Shiel,Polygender,5/21/1995,1,0,,1,0,0,Services,Sweden,Örebro,9,Unacceptable,Unacceptable,Arab
+26-9712509,2/1/2019,Nealy,Koppke,Male,5/7/1989,1,0,,1,0,0,Training,Indonesia,Lengor,4,Meets Expectations,Unacceptable,Irish
+48-0961517,6/2/2020,Fedora,Dursley,Female,3/9/1963,1,0,,1,0,0,Legal,China,Huangcun,4,Needs Improvement,Exceeds Expectations,African
+07-1069869,4/14/2022,Gard,Phateplace,Male,1/21/2000,1,0,,1,0,0,Product Management,Russia,Zhulebino,7,Unacceptable,Meets Expectations,Arab
+43-7130577,11/29/2019,Othilia,Plose,Non-binary,1/27/1985,1,0,,0,0,0,Product Management,Uruguay,Migues,4,Needs Improvement,Unacceptable,Indian
+74-9404163,2/28/2021,Lisa,Leaman,Female,6/17/1955,1,0,,1,0,0,Product Management,Morocco,Jorf,5,Meets Expectations,Unacceptable,Bangladeshi
+18-3190076,10/31/2021,Evan,Ennals,Genderfluid,9/29/1974,1,0,,0,0,0,Engineering,Thailand,Phatthalung,8,Needs Improvement,Outstanding,African
+37-9508599,1/5/2020,Cinnamon,Ambrogio,Female,8/5/1950,1,1,1/13/2020,0,0,1,Accounting,Russia,Maloye Verevo,4,Meets Expectations,Exceeds Expectations,White
+29-0533927,1/6/2020,Brady,Rapkins,Male,11/5/1980,1,0,,0,0,0,Business Development,Tunisia,Jammāl,6,Unacceptable,Meets Expectations,White 
+32-0050494,9/10/2021,Marcellus,Apps,Male,1/6/1957,1,0,,1,0,0,Marketing,Ukraine,Kosmach,8,Meets Expectations,Needs Improvement,White
+63-3003579,11/7/2020,Junie,Catterill,Female,3/16/1990,1,0,,1,0,0,Product Management,Russia,Rovnoye,2,Outstanding,Exceeds Expectations,Chinese
+82-5053396,1/3/2022,Sullivan,Abbet,Male,8/19/1987,1,0,,1,0,0,Human Resources,Portugal,Portelinha,6,Unacceptable,Outstanding,Pakistani
+67-7437907,7/8/2022,Saxon,Youtead,Female,10/28/1968,1,0,,0,0,0,Legal,Moldova,Donduşeni,8,Outstanding,Exceeds Expectations,White
+25-9378882,4/10/2020,Lucila,Whorlow,Female,1/31/1999,1,1,10/14/2020,1,0,1,Product Management,France,Colombes,1,Needs Improvement,Meets Expectations,Indian
+14-8394898,4/21/2022,Alexis,Alleway,Male,6/19/1960,1,0,,0,0,0,Support,Benin,Porto-Novo,8,Needs Improvement,Meets Expectations,Pakistani
+69-1269081,9/16/2019,Lyman,Nicholas,Male,9/11/2001,1,0,,1,0,0,Services,Sweden,Gnosjö,1,Unacceptable,Outstanding,Bangladeshi
+17-7479969,9/1/2019,Cristionna,Sykes,Female,4/27/1994,1,1,5/20/2021,1,0,1,Marketing,Russia,Naberezhnyye Chelny,7,Exceeds Expectations,Unacceptable,Chinese
+11-6563669,10/18/2019,Aldus,Blackah,Male,4/3/2002,1,1,7/9/2020,0,0,1,Accounting,Russia,Plyussa,10,Outstanding,Unacceptable,African
+28-1006181,11/18/2019,Ella,Matyukon,Genderqueer,2/20/1990,1,0,,1,0,0,Product Management,Ireland,Daingean,3,Needs Improvement,Meets Expectations,Caribbean
+62-3259315,10/27/2020,Almeta,Maris,Female,3/10/1985,1,0,,1,0,0,Accounting,Philippines,Cabangahan,7,Meets Expectations,Outstanding,White
+21-0016592,7/24/2022,Gilbertina,Trask,Female,9/4/1989,1,0,,1,0,0,Research and Development,Indonesia,Utarapasar,9,Outstanding,Unacceptable,Arab
+39-1375738,6/21/2019,Jsandye,Newlands,Female,5/17/1981,1,0,,1,0,0,Sales,China,Wangda,7,Exceeds Expectations,Outstanding,Irish
+54-8347044,2/18/2021,Ortensia,Millis,Female,6/23/1950,1,0,,0,0,0,Research and Development,Argentina,Palpalá,4,Needs Improvement,Meets Expectations,African
+57-0243820,2/1/2020,Elsa,Dwelly,Female,3/25/1974,1,0,,0,0,0,Training,Bosnia and Herzegovina,Glamoč,2,Unacceptable,Exceeds Expectations,Arab
+82-0517108,1/12/2022,Harcourt,Life,Male,12/11/1970,1,1,8/10/2019,1,0,1,Human Resources,Indonesia,Sindangheula,5,Exceeds Expectations,Exceeds Expectations,Indian
+78-2287423,7/22/2020,Rice,Haly,Male,3/18/1998,1,0,,1,0,0,Services,China,Gaobu,7,Outstanding,Outstanding,Bangladeshi
+74-8825614,8/20/2022,Vaughan,Fripp,Male,12/13/1954,1,0,,0,0,0,Product Management,Chile,Los Andes,6,Exceeds Expectations,Outstanding,African
+80-6525811,6/29/2019,Tad,Borkin,Male,2/2/2003,1,0,,1,0,0,Support,Peru,Simbal,5,Needs Improvement,Unacceptable,White
+91-1158891,3/23/2022,Klarrisa,Done,Non-binary,11/23/1987,1,0,,1,0,0,Business Development,Pakistan,Kunri,3,Needs Improvement,Outstanding,White 
+16-8676162,10/29/2020,Wilhelm,Flatt,Female,1/16/1961,1,0,,1,0,0,Legal,French Polynesia,Afaahiti,10,Outstanding,Meets Expectations,White
+03-9886592,2/15/2022,Calla,Juan,Female,4/14/1984,1,1,9/7/2020,1,0,1,Product Management,Mauritania,Nouâdhibou,3,Exceeds Expectations,Meets Expectations,Chinese
+50-9930277,10/4/2019,Saree,Padbery,Female,5/17/1954,1,0,,1,0,0,Business Development,Indonesia,Balong Wetan,10,Exceeds Expectations,Exceeds Expectations,Pakistani
+06-7467214,5/24/2021,Daffi,Colpus,Female,9/7/1966,1,0,,0,0,0,Services,Greece,Mouzourás,4,Unacceptable,Exceeds Expectations,White
+18-0850032,3/24/2022,Tatiania,Enoksson,Female,10/31/1956,1,0,,1,0,0,Accounting,China,Xi’an,6,Exceeds Expectations,Needs Improvement,Indian
+21-9321789,4/8/2021,Renault,Doget,Male,1/8/1966,1,0,,0,0,0,Services,Philippines,Urbiztondo,2,Needs Improvement,Outstanding,Pakistani
+84-3209073,12/18/2021,Bren,Haines,Male,6/8/1952,1,1,12/2/2019,0,0,1,Legal,Poland,Górki,2,Outstanding,Unacceptable,Bangladeshi
+95-1201731,7/29/2020,Joella,Heppenspall,Female,4/21/1962,1,0,,1,0,0,Legal,South Africa,Middelburg,5,Unacceptable,Exceeds Expectations,Chinese
+55-6280940,4/18/2022,Jenica,Forrington,Female,11/18/1998,1,0,,0,0,0,Legal,Nigeria,Yandev,4,Meets Expectations,Needs Improvement,African
+77-9091279,2/18/2021,Glory,Snoad,Female,2/23/1971,1,0,,1,0,0,Business Development,Benin,Cotonou,5,Unacceptable,Exceeds Expectations,Caribbean
+67-1857696,2/27/2021,Arv,Robbings,Female,4/10/1972,1,0,,0,0,0,Legal,China,Jinhe,2,Needs Improvement,Outstanding,White
+72-5827666,11/9/2019,Karilynn,Ivanichev,Female,3/5/1988,1,0,,1,0,0,Research and Development,China,Hatu Buh,5,Outstanding,Unacceptable,Arab
+01-7777941,6/21/2022,Patrica,Shirtcliffe,Polygender,11/3/1964,1,1,8/8/2019,0,0,1,Services,Portugal,Donim,5,Unacceptable,Exceeds Expectations,Irish
+37-6447538,11/19/2021,Eberhard,Kersey,Male,7/30/1951,1,0,,0,0,0,Research and Development,United Kingdom,Halton,1,Outstanding,Needs Improvement,African
+13-5726354,6/2/2022,Kimble,Perrins,Male,7/20/1994,1,0,,1,0,0,Legal,Portugal,Monte Francisco,3,Unacceptable,Outstanding,Arab
+98-2830744,6/7/2020,Hartwell,Karadzas,Male,6/21/1972,1,1,6/5/2019,1,1,0,Marketing,Argentina,Tartagal,3,Needs Improvement,Unacceptable,Indian
+78-6560361,6/17/2022,Katee,Stennard,Female,5/29/1978,1,0,,0,0,0,Sales,New Zealand,New Plymouth,5,Outstanding,Exceeds Expectations,Bangladeshi
+27-1892675,11/5/2020,Birk,Fipp,Male,8/8/1968,1,0,,0,0,0,Marketing,Portugal,Santo António,4,Outstanding,Outstanding,African
+41-6119261,7/31/2020,Nev,Davidowich,Male,11/23/1964,1,1,7/9/2022,0,0,1,Research and Development,Philippines,Paombong,10,Meets Expectations,Exceeds Expectations,White
+38-2641494,8/8/2019,Tades,Gibling,Polygender,8/5/1961,1,0,,1,0,0,Training,Vietnam,Thị Trấn Yên Thịnh,4,Meets Expectations,Exceeds Expectations,White 
+32-4785686,9/21/2020,Lusa,Churms,Bigender,11/30/1981,1,0,,1,0,0,Sales,Uruguay,Salto,2,Outstanding,Outstanding,White
+66-1561598,8/15/2019,Allis,Decreuze,Female,5/23/2000,1,0,,1,0,0,Marketing,Brazil,Itapemirim,10,Meets Expectations,Needs Improvement,Chinese
+77-2941921,1/12/2022,Elizabeth,Center,Bigender,2/26/1968,1,0,,0,0,0,Training,Indonesia,Tebon,5,Unacceptable,Unacceptable,Pakistani
+86-8755143,2/2/2022,Arel,Rozzier,Male,7/18/2000,1,1,6/3/2019,1,1,0,Legal,Ethiopia,Kombolcha,4,Needs Improvement,Meets Expectations,White
+74-4445161,9/8/2022,Tabby,Kohen,Male,10/20/1952,1,0,,1,0,0,Business Development,Costa Rica,Chacarita,6,Exceeds Expectations,Outstanding,Indian
+84-5552042,6/22/2021,Zonda,Bellworthy,Female,6/13/1989,1,0,,1,0,0,Training,Lebanon,Batroûn,3,Unacceptable,Meets Expectations,Pakistani
+56-9549596,12/10/2021,Dyane,Raise,Female,5/13/1968,1,0,,0,0,0,Services,China,Ganyan,8,Exceeds Expectations,Outstanding,Bangladeshi
+93-6341585,9/26/2020,Ermentrude,Hodinton,Female,4/1/1980,1,0,,1,0,0,Training,Indonesia,Muara,6,Meets Expectations,Unacceptable,Chinese
+67-0480721,4/24/2022,Englebert,Trott,Male,3/26/1981,1,0,,0,0,0,Marketing,China,Xianyan,1,Outstanding,Needs Improvement,African
+19-0714047,12/17/2020,Silvia,Darnbrook,Female,12/11/1973,1,1,3/14/2020,1,1,0,Business Development,Spain,Santander,5,Outstanding,Meets Expectations,Caribbean
+75-0280541,6/11/2019,Nedda,Cometto,Female,10/1/1950,1,1,11/9/2019,1,1,0,Legal,Cuba,Las Tunas,9,Meets Expectations,Needs Improvement,White
+42-6229203,6/9/2020,Mattias,Fancourt,Male,2/7/1992,1,0,,1,0,0,Marketing,Philippines,Andalan,10,Needs Improvement,Meets Expectations,Arab
+71-1549928,4/25/2021,Wenona,Newbigging,Female,5/15/1996,1,0,,0,0,0,Services,Turkmenistan,Annau,8,Exceeds Expectations,Meets Expectations,Irish
+95-2735622,7/17/2022,Halie,Domenc,Female,10/29/1986,1,1,10/4/2021,0,0,1,Product Management,Benin,Ouidah,1,Unacceptable,Exceeds Expectations,African
+69-5361121,1/13/2022,Ely,Jamot,Male,3/15/1951,1,0,,0,0,0,Marketing,Russia,Miatli,10,Meets Expectations,Exceeds Expectations,Arab
+50-0400539,10/1/2021,Kerrie,Nehlsen,Female,12/18/1997,1,0,,0,0,0,Services,Vietnam,Phan Rang-Tháp Chàm,6,Exceeds Expectations,Needs Improvement,Indian
+89-1892323,10/20/2020,Mignon,Dargan,Female,12/4/1990,1,0,,0,0,0,Legal,Venezuela,Santa Ana,1,Meets Expectations,Needs Improvement,Bangladeshi
+38-2019292,2/23/2020,Ysabel,Bestwerthick,Male,1/3/1955,1,0,,1,0,0,Engineering,Sweden,Svenljunga,3,Meets Expectations,Exceeds Expectations,African
+56-4290297,11/18/2021,Hart,Randals,Male,9/7/1994,1,0,,1,0,0,Support,Zambia,Kalengwa,4,Meets Expectations,Exceeds Expectations,White
+27-9343726,8/1/2021,Dollie,Sexti,Female,10/20/1999,1,0,,0,0,0,Research and Development,Colombia,Ibagué,4,Outstanding,Outstanding,White 
+22-4711236,11/18/2020,Alida,Castles,Non-binary,1/27/1953,1,0,,1,0,0,Marketing,Philippines,Isla,5,Exceeds Expectations,Meets Expectations,White
+71-5215228,3/29/2020,Bianka,MacCulloch,Female,4/10/1986,1,0,,0,0,0,Product Management,Pakistan,Nasīrābād,10,Exceeds Expectations,Outstanding,Chinese
+84-0924919,9/15/2021,Renault,Hebbes,Male,11/26/1963,1,0,,1,0,0,Business Development,Kuwait,Az Zawr,1,Exceeds Expectations,Needs Improvement,Pakistani
+85-6905666,5/27/2022,Carce,McColl,Male,10/3/1965,1,0,,1,0,0,Accounting,Colombia,Mocoa,5,Unacceptable,Meets Expectations,White
+92-6431029,2/24/2022,Clemmy,Nyssens,Female,12/3/1988,1,1,3/16/2021,1,0,1,Human Resources,China,Zhendong,2,Needs Improvement,Unacceptable,Indian
+32-3788584,5/15/2019,Marten,Ioannou,Male,11/6/1955,1,0,,1,0,0,Services,Sweden,Umeå,7,Meets Expectations,Needs Improvement,Pakistani
+62-5852136,6/1/2021,Tiffy,Aphale,Female,10/24/1956,1,1,11/29/2021,0,1,0,Business Development,Greece,Grevená,9,Meets Expectations,Exceeds Expectations,Bangladeshi
+60-1643199,8/31/2019,Christean,Golden of Ireland,Female,8/12/1999,1,0,,1,0,0,Research and Development,United States,Trenton,2,Unacceptable,Meets Expectations,Chinese
+10-6184729,9/5/2021,Rycca,Daines,Female,6/18/1977,1,0,,0,0,0,Research and Development,Libya,Giado,10,Needs Improvement,Outstanding,African
+95-1780243,9/28/2019,Valaria,Morat,Female,12/16/1954,1,0,,0,0,0,Business Development,China,Gaoqiao,8,Needs Improvement,Exceeds Expectations,Caribbean
+19-6721711,12/10/2021,Raynor,Barrows,Male,5/9/1993,1,0,,0,0,0,Training,China,Zhangcaizhuang,7,Exceeds Expectations,Meets Expectations,White
+93-0671021,5/20/2022,Weidar,Blockey,Polygender,8/12/1964,1,0,,1,0,0,Business Development,China,Yuetang,3,Exceeds Expectations,Unacceptable,Arab
+70-1466036,10/27/2020,Vanda,Touhig,Genderqueer,8/8/1990,1,1,6/11/2019,0,0,1,Human Resources,Indonesia,Dresi Wetan,10,Needs Improvement,Exceeds Expectations,Irish
+57-0755406,9/24/2020,Dulcia,Erratt,Female,4/21/1957,1,0,,1,0,0,Support,Poland,Czemierniki,4,Meets Expectations,Unacceptable,African
+15-8684396,6/7/2021,Willdon,Muzzini,Male,7/1/1991,1,0,,0,0,0,Accounting,Netherlands,Haarlem,8,Meets Expectations,Outstanding,Arab
+05-8547808,6/23/2021,Taddeo,Owlner,Female,4/5/1982,1,1,9/19/2019,0,1,0,Legal,Philippines,Cabcaben,5,Unacceptable,Exceeds Expectations,Indian
+16-7434200,12/23/2021,Rani,Willmett,Female,1/31/1995,1,0,,0,0,0,Business Development,Indonesia,Abang,8,Needs Improvement,Needs Improvement,Bangladeshi
+18-4577249,8/23/2019,Tamarah,Gotts,Non-binary,1/3/1989,1,0,,0,0,0,Research and Development,Macedonia,Dobruševo,1,Outstanding,Exceeds Expectations,African
+82-9711714,11/20/2019,Alexandrina,Rook,Female,7/28/1957,1,1,5/15/2019,1,1,0,Accounting,China,Gezan,6,Meets Expectations,Unacceptable,White
+16-6133972,2/18/2019,Martelle,Littlepage,Female,12/23/2002,1,0,,1,0,0,Legal,United States,New York City,6,Exceeds Expectations,Outstanding,White 
+73-8829832,2/25/2020,Rahel,Ell,Female,11/20/1950,1,0,,1,0,0,Human Resources,Kenya,Kabarnet,10,Outstanding,Outstanding,White
+25-2480011,8/2/2020,Jory,Guerri,Male,6/18/1954,1,1,1/11/2021,1,0,1,Training,China,Kandun,7,Meets Expectations,Unacceptable,Chinese
+74-2806928,2/8/2021,Harley,Hammett,Female,3/6/2003,1,0,,1,0,0,Human Resources,Peru,Ihuari,4,Outstanding,Outstanding,Pakistani
+25-5611978,12/5/2021,Elisabeth,Ochterlony,Bigender,2/7/1999,1,0,,1,0,0,Research and Development,China,Laocheng,9,Exceeds Expectations,Needs Improvement,White
+24-0183265,11/1/2020,Bobina,Seint,Female,3/28/1972,1,0,,0,0,0,Support,Eritrea,Asmara,4,Needs Improvement,Needs Improvement,Chinese
+76-3956824,4/17/2020,Gianina,Derrington,Female,11/30/1990,1,1,8/23/2020,0,0,1,Support,Brazil,Horizonte,4,Outstanding,Exceeds Expectations,Pakistani
+69-5671939,3/29/2019,Caty,Hubbard,Female,8/9/1958,1,0,,1,0,0,Training,Thailand,Yan Nawa,10,Outstanding,Needs Improvement,White
+48-5986963,11/25/2021,Charles,Tomik,Male,5/8/1966,1,0,,0,0,0,Legal,China,Heka,5,Meets Expectations,Outstanding,Indian
+98-8577930,9/22/2019,Levi,Dunstan,Male,4/26/1994,1,0,,1,0,0,Support,Ireland,Cill Airne,3,Meets Expectations,Exceeds Expectations,Pakistani
+36-3216040,2/10/2021,Scottie,Cutchee,Polygender,5/30/1974,1,0,,1,0,0,Research and Development,Indonesia,Sekararum,1,Unacceptable,Needs Improvement,Bangladeshi
+82-2439942,3/2/2021,Gaby,Corcoran,Female,7/23/1970,1,0,,1,0,0,Training,Ireland,Annacotty,1,Meets Expectations,Exceeds Expectations,Chinese
+17-4471248,3/2/2022,Carmon,Davies,Female,9/1/1978,1,0,,0,0,0,Support,Brazil,Juàzeirinho,8,Needs Improvement,Exceeds Expectations,African
+69-6549953,11/15/2019,Alaine,McKeggie,Bigender,9/27/1986,1,0,,1,0,0,Support,Norway,Tønsberg,4,Outstanding,Unacceptable,Caribbean
+60-0872884,9/19/2021,Desmund,Othen,Male,11/10/1980,1,0,,1,0,0,Services,Vietnam,Thị Trấn Than Uyên,1,Meets Expectations,Exceeds Expectations,White
+83-1654567,8/23/2020,Wallie,Airth,Non-binary,3/31/2003,1,1,11/1/2020,1,0,1,Training,Indonesia,Bader,7,Needs Improvement,Unacceptable,Arab
+43-1985111,10/27/2020,Luigi,Ashbe,Male,3/24/1987,1,0,,1,0,0,Engineering,Mexico,Guadalupe,7,Meets Expectations,Unacceptable,Irish
+90-4984493,5/8/2022,Reed,Paolacci,Male,6/20/1985,1,0,,0,0,0,Marketing,North Korea,T’ongch’ŏn-ŭp,9,Meets Expectations,Exceeds Expectations,African
+27-1334919,2/5/2022,Raffarty,Prise,Male,4/10/1968,1,1,11/9/2022,0,0,1,Sales,Azerbaijan,Binagadi,8,Meets Expectations,Unacceptable,Arab
+08-8177630,4/21/2019,Beth,Nottingham,Female,7/2/1982,1,0,,0,0,0,Training,Peru,Hualgayoc,9,Meets Expectations,Needs Improvement,Indian
+54-2893204,9/14/2020,Joseito,Sazio,Male,7/6/1966,1,0,,1,0,0,Research and Development,Indonesia,Bakungan,4,Exceeds Expectations,Needs Improvement,Bangladeshi
+21-5857897,5/28/2022,Vasily,Wrotchford,Male,1/17/1958,1,0,,1,0,0,Support,France,Calais,5,Unacceptable,Needs Improvement,African
+13-3319406,6/23/2020,Kevon,Shreenan,Male,8/18/1957,1,0,,1,0,0,Sales,United States,San Diego,3,Exceeds Expectations,Exceeds Expectations,White
+47-8736554,6/27/2021,Allissa,Pilsbury,Female,2/6/1998,1,1,2/16/2019,0,0,1,Training,China,Gexi,1,Exceeds Expectations,Unacceptable,White 
+25-6006161,5/30/2021,Pincas,Sabine,Male,2/12/1991,1,0,,0,0,0,Business Development,Peru,San Jerónimo,10,Unacceptable,Meets Expectations,White
+31-0835083,5/21/2020,Demetris,Callear,Female,7/8/1985,1,0,,0,0,0,Services,Israel,Kefar Shemaryahu,10,Exceeds Expectations,Exceeds Expectations,Chinese
+60-8293700,1/5/2019,Timothee,Wyard,Male,4/20/1967,1,0,,0,0,0,Human Resources,China,Wuyang,2,Needs Improvement,Meets Expectations,Pakistani
+60-3500092,4/13/2019,Slade,Cunnane,Male,10/21/1978,1,0,,0,0,0,Support,Sweden,Hägersten,2,Unacceptable,Outstanding,White
+53-1283398,6/8/2019,Mathian,Evenett,Male,6/17/1973,1,0,,0,0,0,Human Resources,Indonesia,Armopa,1,Unacceptable,Needs Improvement,Indian
+57-5350089,7/31/2019,Calida,Thomassin,Female,8/9/1999,1,0,,0,0,0,Human Resources,Portugal,Fonte da Aldeia,9,Outstanding,Needs Improvement,Pakistani
+41-3525041,7/12/2019,Davey,Gibbens,Male,7/29/1985,1,0,,1,0,0,Accounting,Peru,Sucre,3,Meets Expectations,Needs Improvement,Bangladeshi
+19-7745549,2/11/2021,Tiff,Petrasso,Female,12/12/1979,1,0,,1,0,0,Product Management,Brazil,Sacramento,2,Needs Improvement,Outstanding,Chinese
+42-8256874,7/9/2019,Trudey,Klimt,Female,4/8/1977,1,0,,1,0,0,Research and Development,Russia,Gritsovskiy,1,Needs Improvement,Exceeds Expectations,African
+13-4145470,1/18/2019,Grantham,Bewshea,Male,12/28/1975,1,0,,0,0,0,Support,Argentina,Cafayate,1,Outstanding,Exceeds Expectations,Caribbean
+85-6517360,9/16/2020,Egbert,Heinzler,Male,8/11/1970,1,0,,0,0,0,Research and Development,China,Baizhang,6,Needs Improvement,Exceeds Expectations,White
+16-9808686,3/31/2020,Marlene,Davidman,Female,3/4/1996,1,0,,1,0,0,Support,Greece,Alíartos,2,Unacceptable,Outstanding,Arab
+43-7264251,10/22/2021,Lisabeth,Gerding,Female,9/21/2003,1,0,,1,0,0,Services,Niger,Gaya,7,Outstanding,Meets Expectations,Irish
+29-2360253,12/7/2020,Rivkah,Waby,Female,1/28/1952,1,0,,1,0,0,Training,Russia,Malinovoye Ozero,10,Meets Expectations,Unacceptable,African
+13-4539821,4/29/2019,Evvie,McInerney,Bigender,11/5/1961,1,0,,0,0,0,Sales,China,Qiankou,10,Needs Improvement,Needs Improvement,Arab
+22-9055876,2/6/2019,Trista,Twinn,Female,7/16/1972,1,0,,1,0,0,Business Development,Brazil,Belo Horizonte,7,Meets Expectations,Exceeds Expectations,Indian
+45-2856651,11/21/2019,Renell,Hartigan,Female,1/2/2003,1,0,,1,0,0,Sales,Portugal,Aldeia da Piedade,5,Unacceptable,Meets Expectations,Bangladeshi
+75-5030155,12/3/2021,Dan,Haselgrove,Male,5/5/1958,1,0,,0,0,0,Research and Development,Philippines,Salinas,10,Outstanding,Needs Improvement,African
+93-2757672,7/3/2020,Mona,Flett,Female,9/17/1958,1,0,,0,0,0,Engineering,Japan,Chikushino-shi,9,Outstanding,Exceeds Expectations,White
+30-3824028,2/6/2020,Maribel,Noirel,Female,2/2/1952,1,0,,1,0,0,Product Management,China,Huagu,6,Exceeds Expectations,Needs Improvement,White 
+57-8010222,4/14/2021,Payton,Giffard,Male,10/21/1963,1,0,,1,0,0,Accounting,Poland,Rokietnica,10,Exceeds Expectations,Exceeds Expectations,White
+14-8272520,7/3/2021,Alyssa,Haggath,Female,8/25/1966,1,0,,0,0,0,Research and Development,Philippines,Balangkayan,6,Needs Improvement,Exceeds Expectations,Chinese
+74-7607424,1/18/2020,Jim,Yukhnevich,Male,8/23/1965,1,1,8/12/2019,0,0,1,Marketing,East Timor,Suai,10,Meets Expectations,Exceeds Expectations,Pakistani
+63-7110628,8/5/2021,Adriaens,Heritege,Agender,11/23/1999,1,0,,1,0,0,Sales,Mexico,Loma Bonita,2,Exceeds Expectations,Outstanding,White
+61-7942419,5/5/2019,Tris,Chesney,Male,11/21/1972,1,0,,1,0,0,Legal,Yemen,Al Maḩfid,1,Needs Improvement,Exceeds Expectations,Indian
+73-8133345,5/27/2020,Gibby,Faucett,Genderfluid,5/8/1990,1,0,,1,0,0,Engineering,Poland,Mrzezino,9,Meets Expectations,Exceeds Expectations,Pakistani
+25-2269653,9/18/2020,Michel,Dennerley,Male,6/17/1998,1,0,,0,0,0,Services,Peru,Angasmarca,7,Needs Improvement,Unacceptable,Bangladeshi
+00-5254310,11/9/2020,Laure,Moores,Female,9/18/1982,1,0,,0,0,0,Business Development,Russia,Vitim,2,Needs Improvement,Unacceptable,Chinese
+94-1680085,11/14/2020,Barclay,Skellen,Male,5/28/1954,1,0,,1,0,0,Marketing,Syria,‘Awaj,10,Exceeds Expectations,Needs Improvement,African
+56-2873997,3/18/2019,Vail,Ogley,Male,6/19/1981,1,0,,1,0,0,Business Development,China,Gaopeng,1,Exceeds Expectations,Meets Expectations,Caribbean
+14-8806723,3/26/2020,Brnaby,Corking,Genderqueer,6/9/1977,1,0,,0,0,0,Research and Development,United States,Albuquerque,2,Exceeds Expectations,Needs Improvement,White
+38-3830485,2/19/2022,Emlynn,Pygott,Female,12/3/2000,1,0,,0,0,0,Services,Czech Republic,Mikulčice,7,Meets Expectations,Needs Improvement,Arab
+51-5487152,12/19/2020,Meghann,Girhard,Female,7/10/2003,1,0,,0,0,0,Human Resources,Sri Lanka,Kadugannawa,1,Meets Expectations,Exceeds Expectations,Irish
+61-5229910,3/31/2022,Abbot,Penbarthy,Male,1/8/1958,1,0,,0,0,0,Accounting,Guatemala,Pasaco,7,Needs Improvement,Outstanding,African
+52-1436805,11/16/2020,Allys,Scholes,Female,12/10/1999,1,0,,0,0,0,Marketing,Portugal,Leiria,5,Needs Improvement,Outstanding,Arab
+29-5608221,5/11/2019,Yvette,Hickin,Female,4/21/1997,1,1,11/16/2021,0,0,1,Product Management,Russia,Neftegorsk,9,Exceeds Expectations,Unacceptable,Indian
+79-0485629,6/12/2019,Sacha,McKinley,Female,10/17/1995,1,0,,0,0,0,Engineering,Colombia,Málaga,4,Needs Improvement,Meets Expectations,Bangladeshi
+30-6953426,2/15/2021,Renaud,Roddam,Male,7/26/1973,1,1,9/14/2021,1,0,1,Sales,Ireland,Kinsealy-Drinan,4,Exceeds Expectations,Needs Improvement,African
+08-0962156,4/19/2022,Pancho,Melior,Male,11/17/1989,1,0,,1,0,0,Product Management,Serbia,Klenje,8,Outstanding,Outstanding,White
+95-2468989,9/21/2022,Anabella,Cochrane,Female,9/27/1985,1,1,6/4/2022,1,0,1,Business Development,Russia,Syktyvkar,7,Unacceptable,Exceeds Expectations,White 
+66-6422221,7/22/2019,Emelyne,Pacheco,Female,12/8/1989,1,0,,0,0,0,Product Management,Brazil,Cruz Alta,5,Meets Expectations,Needs Improvement,White
+46-6787822,8/1/2019,Florina,Rorke,Female,5/4/2003,1,1,2/28/2019,1,1,0,Engineering,Ireland,Crumlin,2,Outstanding,Outstanding,Chinese
+35-5392488,4/20/2020,Ashton,Tuttle,Male,10/21/1984,1,0,,1,0,0,Marketing,Paraguay,Colonia Mauricio José Troche,2,Meets Expectations,Unacceptable,Pakistani
+05-3412782,6/17/2019,Sileas,Challender,Female,7/8/1982,1,0,,0,0,0,Business Development,Palestinian Territory,Bayt Ūlā,2,Meets Expectations,Outstanding,White
+96-4795234,7/6/2020,Rustin,Olsson,Male,1/13/1988,1,0,,0,0,0,Product Management,Cuba,Diez de Octubre,10,Meets Expectations,Meets Expectations,Indian
+43-5915497,12/11/2021,Devland,Harewood,Male,7/10/1969,1,1,10/9/2022,1,0,1,Product Management,Belarus,Karanyowka,4,Needs Improvement,Unacceptable,Pakistani
+63-5583886,7/26/2019,Jobi,Sonier,Female,7/14/1990,1,0,,0,0,0,Product Management,Germany,München,10,Needs Improvement,Unacceptable,Bangladeshi
+52-8884729,6/10/2020,Hephzibah,Hindge,Female,2/5/1968,1,0,,0,0,0,Sales,Indonesia,Kembangarum,8,Meets Expectations,Needs Improvement,Chinese
+29-9447356,2/27/2022,Pam,Wayper,Female,3/29/1958,1,1,4/19/2022,1,0,1,Support,Sweden,Vikbolandet,10,Meets Expectations,Unacceptable,African
+16-3751329,1/15/2019,Aymer,Itzhayek,Male,10/18/1972,1,0,,1,0,0,Human Resources,Peru,Yanas,4,Outstanding,Outstanding,Caribbean
+07-6692233,10/10/2021,Lanni,Abthorpe,Female,11/14/1987,1,0,,0,0,0,Product Management,Sweden,Göteborg,5,Meets Expectations,Outstanding,White
+70-1591320,3/15/2020,Revkah,Naisbet,Female,2/14/1997,1,0,,1,0,0,Engineering,Hungary,Budapest,8,Unacceptable,Exceeds Expectations,Arab
+46-6188959,4/17/2021,Glad,Valentino,Female,11/4/1972,1,1,7/18/2021,1,0,1,Marketing,Papua New Guinea,Kwikila,4,Needs Improvement,Meets Expectations,Irish
+28-8831327,1/9/2021,Kira,Edger,Agender,4/29/1968,1,0,,1,0,0,Product Management,Colombia,Chaparral,3,Exceeds Expectations,Exceeds Expectations,African
+17-4316942,2/26/2021,Shawna,Enochsson,Female,3/1/1955,1,0,,1,0,0,Support,Russia,Yashkul’,1,Outstanding,Needs Improvement,Arab
+72-5211043,7/31/2021,Karrie,Wasmer,Non-binary,5/30/2002,1,0,,1,0,0,Sales,Ireland,Longford,3,Exceeds Expectations,Meets Expectations,Indian
+47-6996254,1/13/2021,Gregoor,Bebis,Male,8/24/1968,1,1,8/21/2019,1,1,0,Legal,China,Zhangxi,7,Meets Expectations,Unacceptable,Bangladeshi
+36-3138502,9/24/2020,Kiah,Garlicke,Female,11/7/1952,1,0,,1,0,0,Legal,Colombia,Margarita,4,Unacceptable,Outstanding,African
+68-3734009,8/31/2022,Symon,Gilbeart,Male,3/6/1952,1,0,,1,0,0,Support,China,Taipinghu,1,Exceeds Expectations,Outstanding,White
+08-8445404,12/17/2019,Abby,Siley,Male,11/28/1971,1,0,,0,0,0,Business Development,Portugal,Seixal,3,Needs Improvement,Needs Improvement,White 
+61-2793841,1/21/2019,Glen,Broadis,Female,7/10/1991,1,1,12/21/2021,1,1,0,Support,Greece,Péfki,10,Exceeds Expectations,Outstanding,White
+74-1532754,5/27/2021,Nissie,Dresse,Female,6/30/1962,1,0,,0,0,0,Sales,Russia,Kaduy,1,Exceeds Expectations,Unacceptable,Chinese
+89-6563704,6/14/2019,Giacomo,Donet,Male,6/20/2000,1,0,,1,0,0,Sales,Ukraine,Chervonoarmiys’k,8,Exceeds Expectations,Needs Improvement,Pakistani
+73-8117122,3/13/2019,Jock,Farbrother,Male,4/14/1995,1,0,,1,0,0,Accounting,South Africa,Bloemfontein,10,Outstanding,Meets Expectations,White
+75-1307045,5/8/2019,Dollie,Witchell,Female,11/27/1992,1,0,,0,0,0,Support,Guam,Dededo Village,6,Needs Improvement,Needs Improvement,Indian
+66-3401331,4/4/2021,Gris,Lawton,Male,2/28/1956,1,1,6/17/2022,1,0,1,Legal,Portugal,Gondomar,2,Needs Improvement,Needs Improvement,Pakistani
+21-7788256,9/6/2022,Dita,Stroud,Female,4/24/1992,1,0,,0,0,0,Legal,Indonesia,Gunungjulang,7,Exceeds Expectations,Meets Expectations,Bangladeshi
+97-0762409,1/25/2019,Freddy,Kolodziej,Female,4/20/1971,1,0,,1,0,0,Research and Development,United States,Minneapolis,3,Unacceptable,Outstanding,Chinese
+49-4273210,10/15/2020,Joleen,Isaksson,Genderqueer,1/20/2002,1,0,,0,0,0,Support,Slovenia,Gornji Grad,10,Unacceptable,Outstanding,African
+52-8570450,3/13/2020,Ruby,Curtis,Male,12/1/1996,1,0,,0,0,0,Human Resources,Canada,Hanna,4,Outstanding,Exceeds Expectations,Caribbean
+60-4968169,5/9/2020,Willie,Usherwood,Female,1/22/1961,1,1,4/18/2022,0,0,1,Business Development,Panama,Guadalupe,2,Unacceptable,Needs Improvement,White
+75-8717635,4/28/2021,Mortimer,Middell,Male,2/16/1951,1,0,,0,0,0,Research and Development,Indonesia,Banjar Lalangpasek,5,Needs Improvement,Unacceptable,Arab
+59-5158423,6/28/2021,Erskine,Boissier,Male,3/8/1985,1,0,,1,0,0,Engineering,China,Zhoutou,2,Unacceptable,Exceeds Expectations,Irish
+81-3375092,11/22/2021,Julianna,Layton,Female,9/14/1984,1,1,10/18/2022,1,0,1,Research and Development,Philippines,Port Area,8,Needs Improvement,Outstanding,African
+02-8141695,9/23/2020,Vaclav,Lett,Male,10/21/1986,1,0,,1,0,0,Support,Russia,Volgo-Kaspiyskiy,4,Needs Improvement,Outstanding,Arab
+36-6664116,1/8/2022,Barby,Sergant,Female,4/30/1975,1,0,,0,0,0,Sales,Czech Republic,Broumov,10,Meets Expectations,Meets Expectations,Indian
+26-9445205,12/5/2021,Kip,Shillaber,Male,10/30/1979,1,0,,0,0,0,Accounting,Russia,Pinega,3,Unacceptable,Unacceptable,Bangladeshi
+17-8915020,1/16/2021,Gaelan,Curle,Male,6/14/1988,1,1,8/27/2021,1,1,0,Human Resources,Ecuador,Sucre,6,Outstanding,Outstanding,African
+09-0207655,9/11/2019,Stern,Lambie,Male,6/18/1959,1,0,,0,0,0,Legal,Egypt,Qalyūb,8,Unacceptable,Meets Expectations,White
+64-7065223,10/11/2021,Alyssa,Acott,Female,6/23/1961,1,0,,0,0,0,Services,China,Heshan,2,Meets Expectations,Outstanding,White 
+39-0295445,6/16/2020,Ervin,Fouch,Male,7/10/1974,1,0,,0,0,0,Human Resources,Philippines,Bilad,3,Needs Improvement,Unacceptable,White
+20-7666944,3/19/2021,Helena,McGavigan,Female,1/23/2003,1,0,,1,0,0,Sales,Indonesia,Binuangeun,5,Exceeds Expectations,Unacceptable,Chinese
+80-0421565,12/27/2019,Hodge,Audiss,Male,6/29/1996,1,0,,1,0,0,Business Development,Indonesia,Cisadap,5,Meets Expectations,Needs Improvement,Pakistani
+13-3841592,5/21/2022,Patti,Excell,Bigender,6/3/1966,1,0,,0,0,0,Support,Bangladesh,Sandwīp,2,Outstanding,Exceeds Expectations,White
+33-9147667,1/22/2019,Westbrooke,Normanville,Male,11/20/1963,1,0,,0,0,0,Marketing,Morocco,Bouarouss,3,Outstanding,Meets Expectations,Indian
+94-7709452,11/28/2020,Diarmid,Parnaby,Polygender,3/20/1951,1,0,,0,0,0,Training,China,Hehu,9,Exceeds Expectations,Needs Improvement,Pakistani
+51-6127974,4/28/2022,Pansy,Apark,Female,9/10/1960,1,0,,0,0,0,Support,Togo,Notsé,1,Needs Improvement,Exceeds Expectations,Bangladeshi
+08-5070332,3/29/2019,Giraud,Vlasin,Male,9/24/1971,1,1,5/11/2021,1,1,0,Business Development,France,Saint-Gaudens,8,Unacceptable,Meets Expectations,Chinese
+90-8084299,4/25/2021,Corri,Fison,Female,8/4/1984,1,0,,1,0,0,Engineering,Colombia,Pore,9,Exceeds Expectations,Meets Expectations,African
+17-7070712,6/29/2019,Luce,Waymont,Female,7/20/1987,1,0,,0,0,0,Training,United States,Norwalk,4,Outstanding,Unacceptable,Caribbean
+91-8774304,2/21/2019,Nancie,Minucci,Female,3/30/1964,1,1,9/24/2020,0,0,1,Human Resources,Indonesia,Werangere,2,Needs Improvement,Exceeds Expectations,White
+02-8637956,2/17/2019,Keeley,Doul,Female,8/22/1960,1,0,,1,0,0,Engineering,China,Zhoukoudian,9,Unacceptable,Meets Expectations,Arab
+43-9752585,9/25/2022,Silvie,Colaco,Female,8/20/1967,1,0,,0,0,0,Sales,China,Xin Bulag,10,Meets Expectations,Needs Improvement,Irish
+61-8444219,2/20/2019,Meridith,McNeigh,Female,3/19/1961,1,0,,0,0,0,Product Management,Vietnam,Hữu Lũng,10,Needs Improvement,Unacceptable,African
+75-3854239,10/17/2019,Lynn,Cohani,Female,1/28/1950,1,0,,1,0,0,Legal,Oman,Barkā’,10,Unacceptable,Meets Expectations,Arab
+89-1753260,5/31/2021,Gabriele,Grubey,Male,4/6/1963,1,0,,0,0,0,Engineering,Russia,Belozërskoye,6,Outstanding,Outstanding,Indian
+10-6290400,7/15/2021,Egon,Baccas,Male,10/24/1951,1,0,,0,0,0,Accounting,Lithuania,Kulautuva,3,Needs Improvement,Needs Improvement,Bangladeshi
+13-5944192,1/19/2020,Agosto,Cockhill,Male,6/17/1987,1,1,10/26/2019,1,0,1,Business Development,United States,Oakland,7,Meets Expectations,Unacceptable,African
+96-2230610,3/13/2022,Ignacius,Malbon,Polygender,1/25/1998,1,0,,0,0,0,Sales,Brazil,Maracanaú,3,Outstanding,Unacceptable,White
+09-0983259,6/14/2020,Charla,Andrzejewski,Female,8/14/1977,1,0,,0,0,0,Research and Development,Argentina,Firmat,5,Outstanding,Unacceptable,White 
+00-3574521,11/28/2020,Galina,Bockmann,Female,10/6/2002,1,0,,1,0,0,Marketing,Bulgaria,Chernomorets,2,Needs Improvement,Unacceptable,White
+94-6563214,8/4/2020,Sigismondo,Shird,Male,2/12/1963,1,0,,1,0,0,Accounting,Indonesia,Madette,8,Meets Expectations,Outstanding,Chinese
+80-3157808,12/3/2021,Currey,Roseveare,Male,10/21/1951,1,0,,0,0,0,Research and Development,China,Xinjie,8,Needs Improvement,Outstanding,Pakistani
+41-5289491,11/30/2020,Aurel,Mulvey,Female,9/30/1980,1,0,,1,0,0,Legal,Russia,Izmaylovo,9,Exceeds Expectations,Exceeds Expectations,White
+98-5953091,4/29/2019,Aili,Cregan,Female,9/19/1959,1,0,,0,0,0,Services,Malaysia,Kuching,2,Exceeds Expectations,Meets Expectations,Indian
+95-7005785,5/8/2022,Lynea,Goldwater,Female,1/19/1955,1,0,,0,0,0,Engineering,Philippines,Laguilayan,2,Unacceptable,Unacceptable,Pakistani
+44-3033393,3/17/2020,Cathyleen,Ducker,Genderqueer,8/1/1993,1,0,,0,0,0,Sales,Sweden,Habo,5,Needs Improvement,Needs Improvement,Bangladeshi
+13-2844989,3/11/2019,Graham,Carlyon,Male,10/28/1989,1,0,,0,0,0,Product Management,Greece,Erátyra,9,Needs Improvement,Outstanding,Chinese
+70-6235393,1/17/2020,Crichton,Osanne,Male,6/16/1975,1,0,,0,0,0,Business Development,Brazil,Panorama,9,Needs Improvement,Unacceptable,African
+47-3543003,7/30/2022,Della,Hanning,Female,6/18/1994,1,0,,1,0,0,Product Management,Indonesia,Winduraja,5,Needs Improvement,Meets Expectations,Caribbean
+65-8567538,4/7/2021,Con,Caiger,Female,6/29/1997,1,0,,1,0,0,Human Resources,Russia,Satis,8,Needs Improvement,Outstanding,White
+86-2851649,9/1/2019,Harv,Euler,Male,10/18/1998,1,0,,0,0,0,Research and Development,Serbia,Tršić,6,Needs Improvement,Meets Expectations,Arab
+43-3997654,5/6/2021,Delano,Tremblay,Male,11/9/1977,1,0,,1,0,0,Engineering,Thailand,Khok Sung,10,Exceeds Expectations,Unacceptable,Irish
+81-4966288,6/17/2022,Clementina,Ayris,Female,10/27/1991,1,0,,1,0,0,Human Resources,Brazil,Maracás,4,Needs Improvement,Meets Expectations,African
+68-0414838,12/6/2020,Tonye,Simpson,Female,1/22/1989,1,0,,1,0,0,Services,Sweden,Storvik,5,Needs Improvement,Needs Improvement,Arab
+80-2197215,10/21/2021,Inger,McRuvie,Agender,6/13/1986,1,0,,1,0,0,Services,Peru,Huangascar,7,Meets Expectations,Meets Expectations,Indian
+88-9203981,7/2/2019,Falito,Tockell,Male,4/9/1990,1,0,,0,0,0,Research and Development,Indonesia,Pasanggrahan,3,Meets Expectations,Meets Expectations,Bangladeshi
+87-3223547,8/20/2019,Murdock,Plowell,Male,8/27/1955,1,0,,0,0,0,Marketing,China,Xuefeng,9,Meets Expectations,Meets Expectations,African
+18-2945392,12/28/2019,Iggie,McNuff,Male,7/23/1950,1,0,,0,0,0,Product Management,Mexico,Loma Bonita,6,Meets Expectations,Unacceptable,White
+95-3553511,5/17/2020,Robyn,Tenniswood,Female,11/24/2003,1,0,,0,0,0,Marketing,Canada,Donnacona,6,Exceeds Expectations,Needs Improvement,White 
+60-2570363,4/3/2021,Dallas,Veale,Female,8/28/1982,1,0,,1,0,0,Sales,Japan,Akita,1,Meets Expectations,Unacceptable,White
+25-8581385,1/17/2019,Verena,Jerwood,Female,10/20/1990,1,0,,1,0,0,Human Resources,Indonesia,Tegaldowo,6,Needs Improvement,Outstanding,Chinese
+52-9449035,7/8/2019,Antony,Russan,Male,11/12/1954,1,0,,0,0,0,Sales,Ukraine,Monastyryshche,3,Outstanding,Needs Improvement,Pakistani
+42-3794123,6/29/2021,Gracie,Giblett,Female,7/19/2001,1,0,,1,0,0,Product Management,Peru,Mosoc Llacta,6,Unacceptable,Needs Improvement,White
+06-8353260,12/19/2020,Anderson,Malletratt,Male,3/6/1950,1,0,,0,0,0,Research and Development,Germany,Stuttgart,5,Meets Expectations,Exceeds Expectations,Indian
+58-4319236,9/4/2019,Ulric,Makepeace,Agender,11/20/1981,1,0,,0,0,0,Sales,Russia,Krasnyy Profintern,10,Outstanding,Exceeds Expectations,Pakistani
+30-3487251,6/8/2022,Sissie,St. Hill,Female,11/9/1995,1,0,,0,0,0,Engineering,Syria,Kafr Nubl,2,Meets Expectations,Meets Expectations,Bangladeshi
+99-8690515,9/6/2019,Sydney,Laval,Female,11/24/1962,1,0,,0,0,0,Legal,Philippines,Dalumangcob,1,Meets Expectations,Needs Improvement,Chinese
+80-7117918,5/21/2020,Lanna,Woolward,Female,7/28/1950,1,0,,0,0,0,Product Management,China,Duli,7,Meets Expectations,Unacceptable,African
+06-0274807,8/11/2022,Ellwood,Gomery,Male,11/13/1951,1,0,,0,0,0,Research and Development,Spain,Vigo,10,Meets Expectations,Outstanding,Caribbean
+82-7579998,10/31/2021,Osmond,Paramore,Male,10/31/1954,1,1,11/30/2022,0,0,1,Training,Indonesia,Sugihan,7,Meets Expectations,Exceeds Expectations,White
+73-6551226,6/1/2019,Benoit,Longega,Male,4/7/1979,1,0,,0,0,0,Human Resources,Poland,Dobre,10,Exceeds Expectations,Outstanding,Arab
+43-7797777,1/14/2019,Burt,D'Onise,Male,12/14/1957,1,0,,1,0,0,Legal,Japan,Tsurusaki,6,Needs Improvement,Exceeds Expectations,Irish
+83-7256063,5/11/2022,Abraham,Tremolieres,Male,10/9/1961,1,0,,0,0,0,Sales,Poland,Łubnice,8,Outstanding,Needs Improvement,African
+56-8611323,3/23/2019,Herc,Parmeter,Male,6/26/1996,1,0,,0,0,0,Support,China,Tangnan,10,Outstanding,Unacceptable,Arab
+02-9447611,10/10/2019,Gualterio,Seston,Male,7/9/1974,1,1,5/10/2019,0,1,0,Product Management,Paraguay,Tacuatí,6,Outstanding,Exceeds Expectations,Indian
+46-2795895,9/30/2021,Brear,Klehn,Polygender,4/29/1985,1,0,,0,0,0,Services,Poland,Dolice,1,Unacceptable,Needs Improvement,Bangladeshi
+79-4262828,8/8/2022,Jenn,Weight,Female,5/2/1959,1,0,,0,0,0,Marketing,Latvia,Aknīste,5,Needs Improvement,Unacceptable,African
+88-3195588,3/31/2020,Gabie,McKimmey,Male,4/1/1962,1,0,,0,0,0,Marketing,China,Geshan,8,Unacceptable,Outstanding,White
+40-3512128,3/29/2021,Bartolomeo,Rickerby,Male,2/22/1996,1,1,5/15/2019,0,0,1,Accounting,United Kingdom,London,1,Outstanding,Outstanding,White 
+71-8473967,12/31/2019,Aleksandr,Wilkinson,Male,1/20/1972,1,0,,1,0,0,Support,Tanzania,Magugu,6,Meets Expectations,Unacceptable,White
+96-8553260,3/10/2019,Onfroi,Dine-Hart,Male,4/5/1980,1,0,,1,0,0,Human Resources,Botswana,Mmathubudukwane,3,Meets Expectations,Outstanding,Chinese
+53-9907495,7/25/2021,Nikki,Flancinbaum,Male,10/29/1988,1,0,,0,0,0,Engineering,Kazakhstan,Zharkent,6,Outstanding,Meets Expectations,Pakistani
+19-9149544,3/9/2022,Reginald,Comport,Polygender,5/7/1972,1,0,,0,0,0,Support,Japan,Kōfu-shi,3,Unacceptable,Outstanding,White
+01-7140464,5/4/2021,Mariam,Cornick,Female,8/9/1996,1,1,10/11/2020,0,1,0,Product Management,Portugal,Alfena,5,Meets Expectations,Meets Expectations,Indian
+10-9167203,12/5/2021,Horatius,Hildrew,Male,6/5/1952,1,0,,1,0,0,Human Resources,Sweden,Borgholm,2,Outstanding,Needs Improvement,Pakistani
+51-9629505,2/8/2021,Ansell,Sparwell,Male,5/13/2002,1,0,,0,0,0,Research and Development,Zambia,Mwinilunga,4,Needs Improvement,Exceeds Expectations,Bangladeshi
+51-9425714,5/24/2020,Doll,Burfitt,Female,7/31/1958,1,0,,0,0,0,Research and Development,Indonesia,Naru,4,Unacceptable,Meets Expectations,Chinese
+38-1875060,4/11/2020,Ernie,Privost,Male,12/24/1976,1,0,,1,0,0,Support,China,Shigou,8,Exceeds Expectations,Meets Expectations,African
+37-0094126,1/16/2019,Ashby,Trevain,Male,2/25/1979,1,0,,1,0,0,Marketing,Zimbabwe,Gwanda,5,Unacceptable,Meets Expectations,Caribbean
+79-9610367,1/7/2020,Zorana,Whitely,Female,6/17/1994,1,0,,1,0,0,Legal,Czech Republic,Chrastava,4,Needs Improvement,Meets Expectations,White
+56-6634183,12/1/2021,Antonella,Rudolfer,Female,7/1/1950,1,1,12/14/2020,0,0,1,Support,Indonesia,Rengat,5,Needs Improvement,Unacceptable,Arab
+39-1489507,10/10/2019,Hadley,Blackaller,Male,7/10/1978,1,0,,0,0,0,Support,China,Rongcheng,6,Meets Expectations,Exceeds Expectations,Irish
+95-7008958,7/8/2022,Clive,Swan,Male,5/19/1984,1,0,,1,0,0,Research and Development,Philippines,Kalilangan,4,Exceeds Expectations,Unacceptable,African
+44-1224189,2/12/2021,Tadio,Kern,Bigender,10/8/1958,1,0,,1,0,0,Product Management,China,Honggang,6,Needs Improvement,Exceeds Expectations,Arab
+92-4137234,2/4/2020,Faber,Vasic,Male,2/2/1975,1,0,,0,0,0,Support,Russia,Krasnyy Oktyabr’,5,Unacceptable,Unacceptable,Indian
+14-5580277,5/25/2022,Elia,Beccles,Male,7/26/1997,1,0,,0,0,0,Sales,Cameroon,Fundong,8,Meets Expectations,Unacceptable,Bangladeshi
+17-3720387,7/20/2021,Row,Splevings,Female,9/3/1954,1,0,,1,0,0,Marketing,Poland,Wiśniewo,2,Needs Improvement,Exceeds Expectations,African
+09-8215307,11/27/2021,Colas,Hendonson,Male,12/15/1990,1,0,,1,0,0,Accounting,Georgia,P’rimorsk’oe,5,Exceeds Expectations,Exceeds Expectations,White
+79-8737016,7/8/2021,Saleem,Lude,Male,10/20/1984,1,0,,1,0,0,Engineering,Indonesia,Banjaranyar,10,Unacceptable,Needs Improvement,White 
+34-8523920,5/13/2019,Agneta,Shilvock,Female,4/10/1965,1,0,,0,0,0,Training,Portugal,Venda Nova,4,Needs Improvement,Outstanding,White
+16-5022950,9/17/2021,Lind,Ericssen,Male,10/20/1994,1,0,,0,0,0,Training,Portugal,Póvoa,10,Exceeds Expectations,Outstanding,Chinese
+35-6697943,5/26/2022,Guillema,Arrundale,Female,8/9/1955,1,0,,0,0,0,Training,Russia,Lianozovo,5,Needs Improvement,Unacceptable,Pakistani
+65-3020658,11/18/2020,Quinton,Munnings,Male,3/2/1959,1,0,,0,0,0,Human Resources,China,Shishan,4,Needs Improvement,Unacceptable,White
+43-4025178,10/11/2020,Jerrine,Sibson,Female,7/20/1955,1,0,,0,0,0,Human Resources,Sweden,Kristianstad,9,Needs Improvement,Unacceptable,Indian
+36-4284074,9/5/2022,Corney,Rigbye,Male,8/5/1958,1,0,,1,0,0,Sales,Peru,San Marcos,9,Meets Expectations,Unacceptable,Pakistani
+87-6542525,8/16/2020,Lincoln,MattiCCI,Male,7/30/1958,1,0,,1,0,0,Support,Philippines,Talospatang,1,Needs Improvement,Unacceptable,Bangladeshi
+16-3687678,1/17/2020,Dre,Fitter,Female,11/21/1969,1,1,3/12/2019,1,1,0,Legal,Indonesia,Sayang Lauq,4,Needs Improvement,Unacceptable,Chinese
+25-9154544,4/5/2021,Danita,Marzelli,Female,12/18/1955,1,0,,1,0,0,Human Resources,Chile,Chillán,10,Meets Expectations,Unacceptable,African
+62-8589138,3/31/2020,Kennan,Giorgetti,Female,5/9/1953,1,1,1/10/2022,1,0,1,Legal,Russia,Onguday,3,Needs Improvement,Unacceptable,Caribbean
+68-2379561,2/27/2022,Linda,Handke,Female,1/2/2001,1,0,,1,0,0,Sales,Indonesia,Kangin,3,Unacceptable,Needs Improvement,White
+27-9642195,7/4/2019,Carley,Patinkin,Female,4/27/1978,1,0,,0,0,0,Business Development,Lithuania,Aleksotas,7,Unacceptable,Meets Expectations,Arab
+42-6200813,2/20/2020,Konstantin,Clinnick,Male,3/8/1987,1,0,,1,0,0,Services,France,Paris 18,9,Outstanding,Outstanding,Irish
+01-6959328,9/19/2019,Dani,Pletts,Male,4/25/1961,1,1,6/14/2021,0,0,1,Accounting,Portugal,Alcainça,10,Needs Improvement,Unacceptable,African
+88-6844770,10/10/2020,Estella,Kittredge,Female,1/7/1991,1,0,,0,0,0,Human Resources,China,Benchu,2,Exceeds Expectations,Outstanding,Arab
+23-9300946,7/10/2020,Dee dee,Bedborough,Male,1/9/1962,1,0,,0,0,0,Engineering,Nigeria,Shaffa,2,Outstanding,Meets Expectations,Indian
+18-8817299,8/15/2019,Maury,Janaway,Male,10/12/1993,1,0,,1,0,0,Sales,United States,Jacksonville,2,Unacceptable,Outstanding,Bangladeshi
+03-3884315,3/18/2021,Shina,Gerram,Female,7/22/1991,1,0,,0,0,0,Business Development,Sweden,Tingsryd,2,Needs Improvement,Needs Improvement,African
+84-8964905,5/12/2021,Jacenta,Carvell,Female,7/5/1955,1,0,,0,0,0,Business Development,Egypt,Ash Shuhadā’,8,Outstanding,Needs Improvement,White
+44-2801372,4/20/2019,Staffard,Offen,Male,7/1/1988,1,0,,0,0,0,Legal,Indonesia,Panineungan,1,Exceeds Expectations,Needs Improvement,White 
+93-3240859,7/14/2021,Aida,Kenington,Female,6/27/1996,1,0,,1,0,0,Sales,South Africa,Zastron,5,Meets Expectations,Exceeds Expectations,White
+13-3484497,6/16/2021,Lauritz,Dalgety,Male,4/14/1959,1,0,,0,0,0,Sales,Honduras,"Las Vegas, Santa Barbara",6,Needs Improvement,Meets Expectations,Chinese
+33-9736910,2/9/2022,Dill,Koschek,Male,3/6/1983,1,0,,1,0,0,Sales,Haiti,Carice,6,Outstanding,Exceeds Expectations,Pakistani
+20-9555637,8/20/2020,Manya,McCloughlin,Female,8/25/1974,1,0,,1,0,0,Product Management,Russia,Nizhnyaya Omka,6,Exceeds Expectations,Outstanding,White
+56-6009229,3/27/2020,Clair,Eames,Male,5/26/1970,1,1,9/19/2020,1,1,0,Research and Development,China,Ha’erlong,1,Exceeds Expectations,Unacceptable,Chinese
+93-8838400,9/2/2021,Nisse,Sworne,Polygender,5/10/1967,1,0,,0,0,0,Accounting,Honduras,Ayapa,1,Exceeds Expectations,Outstanding,Pakistani
+88-5230681,8/18/2021,Maynord,Garron,Male,7/9/1953,1,0,,1,0,0,Business Development,China,Liquan Chengguanzhen,9,Meets Expectations,Unacceptable,White
+35-7025451,4/8/2022,Hazel,Philipps,Female,10/24/1972,1,0,,0,0,0,Marketing,Indonesia,Batang,9,Unacceptable,Meets Expectations,Indian
+68-2289377,7/20/2022,Thatch,Paling,Genderfluid,2/28/1979,1,0,,1,0,0,Engineering,South Africa,Lady Frere,10,Unacceptable,Unacceptable,Pakistani
+00-8682106,11/29/2021,Nara,Keatley,Female,2/4/1950,1,0,,0,0,0,Sales,Luxembourg,Bech,6,Outstanding,Meets Expectations,Bangladeshi
+51-0561724,10/4/2020,Christoforo,Folker,Male,9/14/1969,1,0,,0,0,0,Research and Development,China,Jiangwan,6,Outstanding,Unacceptable,Chinese
+43-3357937,1/29/2022,Doti,Deble,Female,3/28/1991,1,0,,1,0,0,Business Development,China,Xingnong,2,Meets Expectations,Unacceptable,African
+19-2286900,8/14/2021,Truman,Quinet,Female,4/14/1995,1,0,,0,0,0,Legal,Ireland,Portumna,9,Exceeds Expectations,Needs Improvement,Caribbean
+91-6498110,12/22/2020,Barr,De Blase,Male,5/12/1962,1,0,,1,0,0,Training,China,Nantou,10,Outstanding,Needs Improvement,White
+81-4940813,6/9/2021,Lisabeth,Palethorpe,Female,4/9/1972,1,1,12/27/2020,0,0,1,Business Development,Mexico,El Mirador,8,Needs Improvement,Outstanding,Arab
+93-3216023,1/5/2020,Gerek,Edgington,Male,4/16/1985,1,0,,1,0,0,Support,Egypt,Ţalkhā,6,Needs Improvement,Meets Expectations,Irish
+35-1927475,9/5/2021,Leigh,Dole,Female,12/12/1956,1,0,,1,0,0,Research and Development,China,Yecun,7,Unacceptable,Exceeds Expectations,African
+71-8370148,4/16/2019,Ruttger,Lieb,Male,11/13/1966,1,0,,1,0,0,Accounting,Indonesia,Bader,9,Outstanding,Needs Improvement,Arab
+57-2805273,4/29/2020,Mack,Darte,Male,5/22/1950,1,0,,0,0,0,Legal,Philippines,Calabugao,10,Meets Expectations,Meets Expectations,Indian
+66-7131405,9/5/2022,Collen,Edmett,Female,9/13/2001,1,0,,1,0,0,Product Management,Norway,Trondheim,9,Exceeds Expectations,Outstanding,Bangladeshi
+80-4300436,9/24/2022,Faydra,Nealey,Female,3/8/1995,1,0,,0,0,0,Product Management,China,Huazhu,9,Needs Improvement,Outstanding,African
+30-2452919,12/31/2019,Irv,Gendricke,Male,12/17/1990,1,0,,1,0,0,Legal,Philippines,Bocos,9,Unacceptable,Outstanding,White
+53-8665130,9/6/2022,Tyrone,Gussie,Male,4/14/1964,1,0,,1,0,0,Marketing,Indonesia,Pandansari,1,Unacceptable,Unacceptable,White 
+54-5356073,12/18/2021,Felecia,Carling,Female,6/25/1994,1,0,,1,0,0,Services,Sweden,Göteborg,2,Needs Improvement,Outstanding,White
+58-9893897,5/30/2019,Parnell,Fasset,Male,10/22/1967,1,0,,0,0,0,Business Development,Nigeria,Agenebode,7,Outstanding,Outstanding,Chinese
+06-5596516,5/28/2021,Cy,Balmer,Male,7/26/1985,1,0,,1,0,0,Support,China,Shouxihu,4,Exceeds Expectations,Unacceptable,Pakistani
+71-1020229,7/10/2020,Lorinda,Esser,Female,4/3/1977,1,0,,1,0,0,Business Development,Czech Republic,Břeclav,9,Outstanding,Meets Expectations,White
+47-0730973,3/8/2022,Starr,Hymor,Female,3/13/1951,1,0,,0,0,0,Marketing,South Africa,Bizana,5,Exceeds Expectations,Outstanding,Indian
+03-9581881,11/19/2020,Pieter,Cornborough,Male,6/10/2003,1,0,,1,0,0,Business Development,China,Hengshan,8,Outstanding,Needs Improvement,Pakistani
+90-0812480,1/14/2020,Miquela,Simmonds,Female,6/22/2002,1,0,,0,0,0,Sales,Ukraine,Lyubeshiv,5,Unacceptable,Exceeds Expectations,Bangladeshi
+93-8235119,6/29/2022,Ilse,Abrahamsen,Female,1/25/1968,1,0,,0,0,0,Support,Yemen,Al Munīrah,8,Outstanding,Needs Improvement,Chinese
+15-6684139,9/27/2021,Shepherd,Wraighte,Male,12/24/1977,1,0,,1,0,0,Human Resources,United States,Syracuse,3,Meets Expectations,Unacceptable,African
+97-8117417,5/15/2021,Danyelle,Tabourin,Female,2/20/1954,1,0,,0,0,0,Training,Mongolia,Höviyn Am,7,Needs Improvement,Unacceptable,Caribbean
+42-4636754,7/20/2019,Giralda,McKag,Polygender,4/5/1966,1,0,,0,0,0,Product Management,Belarus,Skidal’,10,Outstanding,Needs Improvement,White
+26-8515821,9/3/2019,Justine,Shovelton,Bigender,9/15/1993,1,0,,0,0,0,Support,Brazil,São Mateus do Maranhão,2,Needs Improvement,Needs Improvement,Arab
+02-3823655,10/31/2019,Dunstan,Paddie,Male,7/5/1967,1,0,,0,0,0,Accounting,Indonesia,Bantarpanjang,8,Unacceptable,Outstanding,Irish
+69-5219002,1/24/2022,Darelle,Ridder,Female,7/19/2003,1,0,,1,0,0,Research and Development,Philippines,Maddarulug Norte,7,Unacceptable,Outstanding,African
+31-8666374,2/13/2020,Ainslee,Grasha,Female,12/4/1980,1,0,,1,0,0,Product Management,Thailand,Rasi Salai,4,Meets Expectations,Meets Expectations,Arab
+18-8195672,1/12/2019,Vania,Sheraton,Female,1/10/1953,1,1,10/3/2022,1,1,0,Legal,China,Liaoyang,7,Unacceptable,Meets Expectations,Indian
+93-2470516,8/22/2022,Goddart,Bedford,Male,7/21/1952,1,1,7/13/2022,1,0,1,Accounting,Indonesia,Jungkat Selatan,8,Needs Improvement,Exceeds Expectations,Bangladeshi
+11-5868130,12/5/2020,Niki,Townsley,Genderfluid,3/9/1986,1,0,,1,0,0,Engineering,Indonesia,Unden,7,Exceeds Expectations,Needs Improvement,African
+48-7790532,3/12/2022,Maurits,Ewings,Male,7/22/1964,1,0,,0,0,0,Product Management,Norway,Kristiansand S,6,Unacceptable,Meets Expectations,White
+45-7684377,4/12/2022,Eliza,Laimable,Female,9/24/1963,1,0,,1,0,0,Engineering,Indonesia,Ciwaru,2,Meets Expectations,Outstanding,White 
+77-7923071,7/11/2020,Ambrosi,Monger,Bigender,9/23/1989,1,0,,0,0,0,Services,Ethiopia,Dembī Dolo,6,Outstanding,Exceeds Expectations,White
+23-0554487,2/4/2021,Mord,Bovingdon,Male,4/22/1955,1,0,,0,0,0,Training,France,Boulogne-sur-Mer,10,Outstanding,Outstanding,Chinese
+49-9993681,5/11/2019,Krissie,Domotor,Female,7/2/1956,1,0,,1,0,0,Training,Portugal,Barreiro,1,Exceeds Expectations,Unacceptable,Pakistani
+65-6751038,9/27/2020,Florance,Rosa,Bigender,9/26/1976,1,0,,0,0,0,Product Management,Ecuador,Guayaquil,8,Outstanding,Unacceptable,White
+07-0953335,2/10/2019,Lutero,Dalmon,Male,12/1/1985,1,1,5/29/2021,1,1,0,Business Development,Finland,Viljakkala,6,Needs Improvement,Meets Expectations,Indian
+52-9605611,6/23/2019,Nerti,Jeannon,Female,10/20/1959,1,0,,1,0,0,Engineering,Ukraine,Novi Bilokorovychi,6,Exceeds Expectations,Needs Improvement,Pakistani
+86-9513864,7/20/2021,Gerhardine,Gouch,Female,5/7/1954,1,0,,1,0,0,Accounting,Canada,Danville,2,Meets Expectations,Outstanding,Bangladeshi
+87-8549327,5/10/2020,Cyndy,Peakman,Female,2/22/1987,1,0,,0,0,0,Sales,Russia,Kamen’-na-Obi,2,Meets Expectations,Needs Improvement,Chinese
+64-0902916,12/10/2021,Gabrila,Frizell,Female,2/21/1970,1,0,,1,0,0,Support,Russia,Shelopugino,9,Needs Improvement,Meets Expectations,African
+38-9097871,7/18/2020,Thomasa,Greener,Female,6/20/1954,1,0,,1,0,0,Services,Indonesia,Karangbaru,1,Needs Improvement,Needs Improvement,Caribbean
+51-0145140,5/11/2022,Sandie,Isaq,Genderfluid,3/23/1956,1,0,,1,0,0,Human Resources,Vietnam,Trà Ôn,3,Exceeds Expectations,Meets Expectations,White
+57-8531701,9/12/2019,Desirae,Hutable,Female,12/7/1951,1,0,,0,0,0,Accounting,China,Jinshan,7,Outstanding,Needs Improvement,Arab
+51-6091361,10/23/2020,Deane,Nattriss,Agender,3/12/1996,1,0,,0,0,0,Marketing,China,Datong,9,Unacceptable,Outstanding,Irish
+62-9104768,2/12/2019,Dare,Fraczkiewicz,Male,7/28/1954,1,0,,1,0,0,Marketing,Japan,Chigasaki,6,Meets Expectations,Meets Expectations,African
+76-5875486,8/2/2021,Cameron,Saiens,Male,10/29/1950,1,1,2/8/2020,1,1,0,Research and Development,China,Nanpu,7,Unacceptable,Meets Expectations,Arab
+42-2906712,2/22/2019,Artair,Jirsa,Male,10/15/1976,1,0,,1,0,0,Research and Development,Poland,Przelewice,7,Exceeds Expectations,Outstanding,Indian
+57-2689771,4/29/2022,Lauraine,Chatres,Female,2/10/1974,1,0,,1,0,0,Human Resources,Syria,At Tibnī,10,Unacceptable,Meets Expectations,Bangladeshi
+82-0343482,7/19/2022,Valentin,Deverille,Male,1/26/1958,1,0,,1,0,0,Marketing,Syria,Ma‘dān,7,Meets Expectations,Unacceptable,African
+23-3523071,5/18/2020,Scarlett,Bourdon,Female,8/13/1977,1,0,,1,0,0,Support,Indonesia,Sepanjang,5,Exceeds Expectations,Outstanding,White
+29-2204213,2/22/2022,Jeannie,Ashling,Female,9/15/1963,1,0,,0,0,0,Legal,Latvia,Priekule,5,Outstanding,Unacceptable,White 
+96-4818986,1/17/2019,Mitchael,Ollie,Male,6/2/1975,1,0,,1,0,0,Marketing,Philippines,Santa Maria,4,Meets Expectations,Unacceptable,White
+82-5958110,8/2/2021,Davine,Sutter,Female,10/25/1992,1,0,,0,0,0,Research and Development,Panama,Río Sereno,9,Unacceptable,Outstanding,Chinese
+47-7989265,4/21/2021,Birk,Keelin,Male,4/23/1956,1,1,9/20/2020,0,1,0,Marketing,Czech Republic,Dobroměřice,5,Unacceptable,Unacceptable,Pakistani
+32-1860963,3/26/2022,Bennie,Garford,Female,7/28/2003,1,0,,0,0,0,Human Resources,Indonesia,Leteki,2,Unacceptable,Needs Improvement,White
+36-1933554,11/2/2020,Read,Otson,Male,2/26/1996,1,0,,1,0,0,Human Resources,Thailand,Pa Tio,8,Needs Improvement,Needs Improvement,Indian
+46-8047724,7/26/2020,Binnie,Gristock,Genderqueer,11/12/1977,1,0,,1,0,0,Human Resources,Poland,Dębe Wielkie,6,Outstanding,Meets Expectations,Pakistani
+85-7124101,7/29/2020,Jessalin,Issatt,Male,10/31/1953,1,0,,0,0,0,Legal,Portugal,Lemende,6,Outstanding,Exceeds Expectations,Bangladeshi
+44-7290903,4/17/2020,Nancey,Apthorpe,Female,5/16/1963,1,1,12/6/2019,0,0,1,Training,Portugal,Vale das Mós,5,Needs Improvement,Outstanding,Chinese
+80-4360284,1/7/2021,Caron,Harpham,Female,7/6/1992,1,0,,1,0,0,Product Management,Latvia,Dagda,1,Unacceptable,Outstanding,African
+02-6959004,3/1/2020,Kerwin,Vial,Male,2/4/1984,1,0,,0,0,0,Human Resources,Philippines,Rajal Norte,2,Outstanding,Exceeds Expectations,Caribbean
+03-5864094,6/24/2022,Truda,MacAloren,Female,12/8/1978,1,1,9/4/2022,0,0,1,Training,China,Tianxin,10,Outstanding,Exceeds Expectations,White
+79-2900633,12/30/2021,Susy,Easey,Female,2/28/1988,1,0,,1,0,0,Accounting,Japan,Kiryū,7,Meets Expectations,Needs Improvement,Arab
+25-7268691,8/29/2021,Hunt,Fazan,Male,4/5/1973,1,0,,1,0,0,Research and Development,Indonesia,Jalinan,4,Unacceptable,Needs Improvement,Irish
+64-9690676,2/11/2021,Pepe,Okey,Polygender,5/10/1984,1,0,,0,0,0,Marketing,Belarus,Kalinkavichy,9,Unacceptable,Meets Expectations,African
+00-4150857,2/13/2022,Fionna,Havelin,Female,5/10/1959,1,0,,0,0,0,Sales,Bangladesh,Dinājpur,4,Unacceptable,Unacceptable,Arab
+60-7644237,12/1/2020,Kylie,Wheowall,Male,4/23/1959,1,0,,0,0,0,Accounting,China,Gaofeng,7,Meets Expectations,Exceeds Expectations,Indian
+04-3936093,5/24/2021,Gill,Foxhall,Female,5/28/1989,1,0,,1,0,0,Human Resources,Greece,Kos,7,Unacceptable,Needs Improvement,Bangladeshi
+62-3139076,5/8/2022,Vail,Rzehor,Male,9/17/1954,1,1,7/10/2019,0,0,1,Sales,Malaysia,Kuantan,9,Outstanding,Exceeds Expectations,African
+27-4677906,5/14/2022,Budd,Feasey,Male,11/17/1976,1,0,,0,0,0,Legal,France,Toulouse,5,Unacceptable,Outstanding,White
+75-9982082,2/10/2019,Sherry,Ramelet,Female,10/4/1986,1,0,,1,0,0,Research and Development,Czech Republic,Zeleneč,1,Needs Improvement,Unacceptable,White 
+24-1147472,5/28/2020,Vivianna,Stitfall,Female,5/9/2001,1,0,,1,0,0,Sales,United States,Washington,8,Outstanding,Exceeds Expectations,White
+32-8586721,1/29/2022,Evania,Jina,Female,6/29/1990,1,0,,1,0,0,Training,Bolivia,Guayaramerín,9,Unacceptable,Needs Improvement,Chinese
+36-0879289,4/23/2019,Iona,Trimme,Female,11/18/1991,1,0,,0,0,0,Support,Laos,Viangxai,9,Outstanding,Unacceptable,Pakistani
+20-7431700,2/13/2022,Sansone,Bantham,Male,9/11/2002,1,0,,1,0,0,Training,Indonesia,Sambong,5,Meets Expectations,Outstanding,White
+63-1172906,9/19/2022,Leanora,Brahams,Female,10/28/1954,1,0,,0,0,0,Accounting,Portugal,Tabuaço,9,Outstanding,Needs Improvement,Indian
+35-2850889,6/12/2022,Wilhelmina,Catenot,Genderqueer,1/23/1962,1,0,,0,0,0,Accounting,Indonesia,Baru,4,Needs Improvement,Exceeds Expectations,Pakistani
+04-6033211,4/3/2020,Leroi,Greener,Male,1/5/1965,1,0,,0,0,0,Human Resources,Indonesia,Semanding Barat,3,Needs Improvement,Outstanding,Bangladeshi
+25-9086339,1/8/2020,Gwendolin,Southern,Female,3/28/1954,1,0,,0,0,0,Accounting,Egypt,Kafr ash Shaykh,1,Unacceptable,Outstanding,Chinese
+84-7156585,1/11/2019,Kevan,Halworth,Male,10/23/1965,1,0,,1,0,0,Research and Development,Brazil,Belo Horizonte,6,Meets Expectations,Meets Expectations,African
+63-0494673,4/11/2019,Charlena,Barnett,Male,10/5/1968,1,0,,0,0,0,Engineering,Sweden,Lidingö,10,Exceeds Expectations,Exceeds Expectations,Caribbean
+37-5800485,7/8/2021,Michale,Jorez,Male,1/7/1967,1,0,,1,0,0,Marketing,Poland,Krosno Odrzańskie,8,Needs Improvement,Unacceptable,White
+89-3421175,11/28/2019,Nollie,Geard,Female,6/17/1991,1,1,11/3/2019,1,1,0,Services,Indonesia,Noemuti,4,Outstanding,Needs Improvement,Arab
+45-3020029,5/20/2021,Saleem,Haselden,Male,11/19/1973,1,0,,0,0,0,Support,Niger,Tillabéri,4,Outstanding,Meets Expectations,Irish
+26-3886461,11/27/2019,Dode,Nutman,Female,12/2/1967,1,0,,1,0,0,Marketing,Malaysia,Alor Setar,2,Outstanding,Outstanding,African
+27-0522022,2/9/2019,Armin,Michal,Male,12/11/2001,1,0,,1,0,0,Accounting,China,Zhuangshi,9,Needs Improvement,Unacceptable,Arab
+57-7909610,9/19/2019,Sheridan,Goschalk,Male,10/4/1984,1,0,,1,0,0,Engineering,Russia,Vatutino,7,Exceeds Expectations,Unacceptable,Indian
+79-4207627,3/19/2019,Onfroi,Jobke,Female,8/23/2001,1,0,,0,0,0,Legal,Finland,Teuva,2,Outstanding,Meets Expectations,Bangladeshi
+54-6540509,1/21/2020,Stu,Drewery,Female,12/14/1976,1,0,,1,0,0,Legal,Peru,Succha,6,Outstanding,Unacceptable,African
+09-0501517,4/24/2022,Hanna,Dericut,Female,12/22/1994,1,0,,1,0,0,Training,Argentina,Las Parejas,4,Needs Improvement,Meets Expectations,White
+47-7677924,9/24/2021,Mabel,Faivre,Female,7/25/1961,1,0,,1,0,0,Services,Sweden,Valbo,10,Meets Expectations,Needs Improvement,White 
+96-2977345,12/5/2021,Janie,Van der Brugge,Female,10/9/1963,1,0,,1,0,0,Engineering,Thailand,Tha Bo,1,Meets Expectations,Needs Improvement,White
+09-6397944,11/3/2019,Kareem,Pinches,Male,1/30/1969,1,0,,0,0,0,Marketing,China,Sishui,10,Exceeds Expectations,Needs Improvement,Chinese
+02-5004165,12/13/2021,Mikel,Nucci,Female,2/8/1960,1,0,,1,0,0,Legal,China,Yangjiafang,5,Meets Expectations,Needs Improvement,Pakistani
+72-9530392,7/30/2022,Tobias,Gavaran,Male,11/26/1985,1,0,,0,0,0,Services,Yemen,Ḩabīl ar Raydah,1,Meets Expectations,Meets Expectations,White
+41-7572365,10/27/2020,Staford,Welfair,Female,12/20/1978,1,0,,0,0,0,Legal,Israel,Rosh Pinna,4,Needs Improvement,Exceeds Expectations,Indian
+93-4563564,10/7/2021,Deeyn,Ranns,Female,11/13/1971,1,0,,0,0,0,Sales,Croatia,Kraljevica,5,Outstanding,Outstanding,Pakistani
+07-5824907,12/31/2020,Reidar,Gauntlett,Male,5/24/1959,1,0,,0,0,0,Human Resources,Russia,Sevsk,3,Exceeds Expectations,Unacceptable,Bangladeshi
+59-8454884,8/19/2022,Teresa,Bilovus,Female,3/24/1967,1,0,,0,0,0,Product Management,Indonesia,Watunggong,7,Unacceptable,Exceeds Expectations,Chinese
+34-0670473,11/17/2021,Mab,Waszczykowski,Female,7/8/1956,1,0,,1,0,0,Accounting,France,Laxou,4,Needs Improvement,Unacceptable,African
+62-8075474,10/15/2020,Cathe,Sebire,Genderfluid,9/18/1975,1,0,,1,0,0,Engineering,Pakistan,Muzaffargarh,8,Unacceptable,Exceeds Expectations,Caribbean
+74-8884636,3/2/2020,Eryn,Plumbe,Female,11/8/1986,1,0,,0,0,0,Human Resources,Mexico,Guadalupe,1,Needs Improvement,Meets Expectations,White
+24-6838870,8/23/2019,Berk,Branni,Male,1/8/1994,1,0,,0,0,0,Support,Iran,Şaḩneh,10,Outstanding,Needs Improvement,Arab
+40-5934926,7/27/2020,Philippa,Earsman,Female,4/29/1950,1,1,4/1/2022,1,0,1,Marketing,Peru,Sabandia,6,Outstanding,Exceeds Expectations,Irish
+94-1626590,4/5/2019,Louisette,Ingley,Agender,6/28/1972,1,0,,1,0,0,Support,Pakistan,Haveliān,1,Unacceptable,Meets Expectations,African
+91-1312004,2/16/2021,Hortensia,Scardefield,Female,5/21/1986,1,0,,0,0,0,Human Resources,Indonesia,Sikur,10,Unacceptable,Exceeds Expectations,Arab
+99-5678812,6/28/2022,Greer,Slight,Non-binary,9/26/1960,1,0,,1,0,0,Product Management,Japan,Satsumasendai,6,Unacceptable,Exceeds Expectations,Indian
+37-2297233,1/6/2020,Kalindi,Huelin,Female,1/21/1972,1,0,,0,0,0,Support,China,Jishan,3,Exceeds Expectations,Unacceptable,Bangladeshi
+66-9247284,1/21/2021,Kendra,Stirling,Female,2/4/1984,1,0,,1,0,0,Training,Philippines,Galimuyod,3,Meets Expectations,Meets Expectations,African
+32-4090415,1/10/2021,Lanie,Neighbour,Male,8/5/2002,1,0,,0,0,0,Marketing,Indonesia,Gunungangka,10,Meets Expectations,Meets Expectations,White
+03-0447247,1/8/2020,Derwin,Sate,Male,3/10/1952,1,0,,0,0,0,Support,Indonesia,Karanganyar,10,Meets Expectations,Exceeds Expectations,White 
+82-2576831,10/21/2020,Verena,Le Gassick,Female,7/22/1981,1,0,,1,0,0,Engineering,Philippines,Calabugao,6,Outstanding,Meets Expectations,White
+41-5686576,12/10/2019,Rubin,Fallowfield,Polygender,9/26/1950,1,0,,0,0,0,Research and Development,Azerbaijan,Heydərabad,9,Unacceptable,Exceeds Expectations,Chinese
+92-9760486,10/10/2021,Chaddy,Lawman,Male,3/12/1957,1,0,,0,0,0,Research and Development,China,Takeshiken,5,Needs Improvement,Exceeds Expectations,Pakistani
+39-3025194,4/29/2022,Gui,Norewood,Female,8/15/1979,1,0,,0,0,0,Research and Development,Malta,Paola,2,Outstanding,Meets Expectations,White
+29-4244367,12/6/2019,Blane,Whiteley,Male,7/21/1962,1,0,,1,0,0,Sales,China,Guanxi,6,Exceeds Expectations,Needs Improvement,Indian
+44-6948703,8/15/2021,Quintilla,Hempel,Female,10/20/1971,1,0,,0,0,0,Accounting,Russia,Kulary,3,Needs Improvement,Meets Expectations,Pakistani
+45-9745950,9/15/2021,Gamaliel,Ingarfill,Male,3/24/1985,1,0,,0,0,0,Business Development,Iran,Kelīshād va Sūdarjān,5,Exceeds Expectations,Needs Improvement,Bangladeshi
+04-3620104,5/1/2021,Aaron,Lowndsbrough,Male,2/18/1951,1,0,,1,0,0,Engineering,Mexico,Fernando Gutierrez Barrios,6,Unacceptable,Exceeds Expectations,Chinese
+34-8497322,10/22/2021,Milt,Cardow,Male,1/17/1995,1,0,,1,0,0,Product Management,Brazil,Bom Jesus da Lapa,5,Unacceptable,Meets Expectations,African
+43-7932649,11/30/2020,Julietta,Backs,Female,7/11/1962,1,0,,0,0,0,Marketing,Brazil,Goiatuba,9,Exceeds Expectations,Exceeds Expectations,Caribbean
+50-9870824,3/24/2020,Loralyn,Doerr,Female,10/14/1959,1,0,,1,0,0,Research and Development,Colombia,Urrao,9,Needs Improvement,Meets Expectations,White
+85-9340239,11/4/2019,Philis,Baynham,Female,3/4/1982,1,0,,1,0,0,Marketing,China,Dalu,4,Unacceptable,Unacceptable,Arab
